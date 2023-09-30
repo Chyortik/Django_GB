@@ -38,16 +38,20 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" object-ref="schemas/db/tables/myapp2_article" />
-      <object connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" object-ref="schemas/db/tables/myapp2_author" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_order" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_order_products" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_product" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_article" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_client" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_coin" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_orders_products" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_author" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_orders" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_autor" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_user" active-filter-id="EMPTY_FILTER" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
