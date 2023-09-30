@@ -129,3 +129,701 @@ INFO 2023-09-30 12:42:51,506 views 13756 21140 посещение страниц
 INFO 2023-09-30 12:42:51,507 basehttp 13756 21140 "GET /main_page/ HTTP/1.1" 200 1779
 INFO 2023-09-30 12:42:51,554 views 13756 9312 посещение страницы index в: 2023-09-30 12:42:51.554202
 INFO 2023-09-30 12:42:51,555 basehttp 13756 9312 "GET /main_page/ HTTP/1.1" 200 1779
+INFO 2023-09-30 13:07:02,812 autoreload 12916 1924 Watching for file changes with StatReloader
+INFO 2023-09-30 13:07:05,938 basehttp 12916 19736 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 13:07:06,158 basehttp 12916 21020 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 13:07:42,099 views 12916 19736 Выпала сторона: Сторона: орёл, Время: 2023-09-30 10:07:40.702079+00:00
+INFO 2023-09-30 13:07:42,101 basehttp 12916 19736 "GET /eagle/ HTTP/1.1" 200 70
+INFO 2023-09-30 13:07:43,017 views 12916 21020 Выпала сторона: Сторона: орёл, Время: 2023-09-30 10:07:42.151541+00:00
+INFO 2023-09-30 13:07:43,019 basehttp 12916 21020 "GET /eagle/ HTTP/1.1" 200 70
+INFO 2023-09-30 13:07:45,783 views 12916 19736 Выпала сторона: Сторона: решка, Время: 2023-09-30 10:07:45.087854+00:00
+INFO 2023-09-30 13:07:45,785 basehttp 12916 19736 "GET /eagle/ HTTP/1.1" 200 72
+INFO 2023-09-30 13:07:46,980 views 12916 21020 Выпала сторона: Сторона: решка, Время: 2023-09-30 10:07:45.831693+00:00
+INFO 2023-09-30 13:07:46,982 basehttp 12916 21020 "GET /eagle/ HTTP/1.1" 200 72
+INFO 2023-09-30 13:07:49,760 views 12916 19736 Выпала сторона: Сторона: решка, Время: 2023-09-30 10:07:48.643524+00:00
+INFO 2023-09-30 13:07:49,762 basehttp 12916 19736 "GET /eagle/ HTTP/1.1" 200 72
+INFO 2023-09-30 13:07:50,055 views 12916 21020 Выпала сторона: Сторона: решка, Время: 2023-09-30 10:07:49.807625+00:00
+INFO 2023-09-30 13:07:50,055 basehttp 12916 21020 "GET /eagle/ HTTP/1.1" 200 72
+INFO 2023-09-30 13:15:54,307 autoreload 12916 1924 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:15:54,760 autoreload 14220 14832 Watching for file changes with StatReloader
+INFO 2023-09-30 13:16:27,963 autoreload 14220 14832 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:16:28,403 autoreload 8284 20828 Watching for file changes with StatReloader
+INFO 2023-09-30 13:18:01,797 autoreload 8284 20828 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:18:02,188 autoreload 2628 4292 Watching for file changes with StatReloader
+INFO 2023-09-30 13:18:08,525 autoreload 2628 4292 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:18:08,878 autoreload 20804 8060 Watching for file changes with StatReloader
+INFO 2023-09-30 13:19:05,151 autoreload 20804 8060 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:19:05,546 autoreload 15900 20604 Watching for file changes with StatReloader
+INFO 2023-09-30 13:22:48,892 autoreload 15900 20604 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:22:49,268 autoreload 11532 8240 Watching for file changes with StatReloader
+INFO 2023-09-30 13:23:03,807 autoreload 11532 8240 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:23:04,223 autoreload 20556 16192 Watching for file changes with StatReloader
+INFO 2023-09-30 13:23:07,533 autoreload 20556 16192 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:23:07,966 autoreload 3144 1064 Watching for file changes with StatReloader
+INFO 2023-09-30 13:23:10,260 autoreload 3144 1064 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:23:10,682 autoreload 9560 9540 Watching for file changes with StatReloader
+INFO 2023-09-30 13:23:14,981 autoreload 9560 9540 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:23:15,382 autoreload 21452 11896 Watching for file changes with StatReloader
+INFO 2023-09-30 13:23:19,723 autoreload 21452 11896 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:23:20,086 autoreload 17912 15828 Watching for file changes with StatReloader
+INFO 2023-09-30 13:28:57,165 autoreload 11628 21300 Watching for file changes with StatReloader
+INFO 2023-09-30 13:30:23,173 autoreload 19376 17940 Watching for file changes with StatReloader
+INFO 2023-09-30 13:33:25,925 autoreload 19376 17940 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:33:26,311 autoreload 16512 1068 Watching for file changes with StatReloader
+INFO 2023-09-30 13:33:57,040 autoreload 16512 1068 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:33:57,445 autoreload 6788 13108 Watching for file changes with StatReloader
+INFO 2023-09-30 13:36:29,976 autoreload 5084 18436 Watching for file changes with StatReloader
+INFO 2023-09-30 13:36:32,179 basehttp 5084 15648 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 13:36:32,395 basehttp 5084 14984 "GET / HTTP/1.1" 200 12
+ERROR 2023-09-30 13:37:04,037 log 5084 15648 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:37:04,039 basehttp 5084 15648 "GET /show_elements/3 HTTP/1.1" 500 71174
+ERROR 2023-09-30 13:37:04,219 log 5084 14984 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:37:04,221 basehttp 5084 14984 "GET /show_elements/3 HTTP/1.1" 500 70230
+ERROR 2023-09-30 13:37:30,803 log 5084 15648 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:37:30,805 basehttp 5084 15648 "GET /show_elements/3 HTTP/1.1" 500 71311
+ERROR 2023-09-30 13:37:30,901 log 5084 14984 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:37:30,903 basehttp 5084 14984 "GET /show_elements/3 HTTP/1.1" 500 70230
+WARNING 2023-09-30 13:37:50,104 log 5084 15648 Not Found: /show_elements/
+WARNING 2023-09-30 13:37:50,105 basehttp 5084 15648 "GET /show_elements/ HTTP/1.1" 404 3341
+WARNING 2023-09-30 13:37:50,160 log 5084 14984 Not Found: /show_elements/
+WARNING 2023-09-30 13:37:50,161 basehttp 5084 14984 "GET /show_elements/ HTTP/1.1" 404 3341
+INFO 2023-09-30 13:38:30,017 autoreload 5084 18436 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:38:30,414 autoreload 17664 12648 Watching for file changes with StatReloader
+ERROR 2023-09-30 13:38:32,807 log 17664 13436 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 26, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'all'
+ERROR 2023-09-30 13:38:32,809 basehttp 17664 13436 "GET /show_elements/3 HTTP/1.1" 500 71166
+ERROR 2023-09-30 13:38:32,907 log 17664 15140 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 26, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'all'
+ERROR 2023-09-30 13:38:32,909 basehttp 17664 15140 "GET /show_elements/3 HTTP/1.1" 500 70222
+INFO 2023-09-30 13:40:11,045 autoreload 17664 12648 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:40:11,410 autoreload 10316 2944 Watching for file changes with StatReloader
+INFO 2023-09-30 13:40:14,853 basehttp 10316 21108 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 13:40:15,247 basehttp 10316 13120 "GET / HTTP/1.1" 200 12
+ERROR 2023-09-30 13:40:26,085 log 10316 21108 Internal Server Error: /eagle/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 98, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 14, in eagle
+    coin.save()
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1833, in execute_sql
+    self.connection.ops.fetch_returned_insert_columns(
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\base\operations.py", line 213, in fetch_returned_insert_columns
+    return cursor.fetchone()
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 97, in inner
+    with self:
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 98, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+ERROR 2023-09-30 13:40:26,089 basehttp 10316 21108 "GET /eagle/ HTTP/1.1" 500 128061
+ERROR 2023-09-30 13:40:31,662 log 10316 2188 Internal Server Error: /eagle/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 98, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 14, in eagle
+    coin.save()
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1833, in execute_sql
+    self.connection.ops.fetch_returned_insert_columns(
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\base\operations.py", line 213, in fetch_returned_insert_columns
+    return cursor.fetchone()
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 97, in inner
+    with self:
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 98, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+ERROR 2023-09-30 13:40:31,665 basehttp 10316 2188 "GET /eagle/ HTTP/1.1" 500 128061
+ERROR 2023-09-30 13:40:37,245 log 10316 13120 Internal Server Error: /eagle/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 98, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 14, in eagle
+    coin.save()
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1833, in execute_sql
+    self.connection.ops.fetch_returned_insert_columns(
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\base\operations.py", line 213, in fetch_returned_insert_columns
+    return cursor.fetchone()
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 97, in inner
+    with self:
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 98, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+ERROR 2023-09-30 13:40:37,248 basehttp 10316 13120 "GET /eagle/ HTTP/1.1" 500 127099
+INFO 2023-09-30 13:40:52,364 views 10316 2188 Выпала сторона: Сторона: орёл, Время: 2023-09-30 10:40:51.376033+00:00
+INFO 2023-09-30 13:40:52,365 basehttp 10316 2188 "GET /eagle/ HTTP/1.1" 200 70
+INFO 2023-09-30 13:40:53,180 views 10316 13120 Выпала сторона: Сторона: орёл, Время: 2023-09-30 10:40:52.407142+00:00
+INFO 2023-09-30 13:40:53,182 basehttp 10316 13120 "GET /eagle/ HTTP/1.1" 200 70
+INFO 2023-09-30 13:40:54,730 views 10316 2188 Выпала сторона: Сторона: решка, Время: 2023-09-30 10:40:54.542462+00:00
+INFO 2023-09-30 13:40:54,732 basehttp 10316 2188 "GET /eagle/ HTTP/1.1" 200 72
+INFO 2023-09-30 13:40:54,951 views 10316 13120 Выпала сторона: Сторона: орёл, Время: 2023-09-30 10:40:54.778600+00:00
+INFO 2023-09-30 13:40:54,953 basehttp 10316 13120 "GET /eagle/ HTTP/1.1" 200 70
+INFO 2023-09-30 13:40:56,678 views 10316 2188 Выпала сторона: Сторона: орёл, Время: 2023-09-30 10:40:56.519539+00:00
+INFO 2023-09-30 13:40:56,679 basehttp 10316 2188 "GET /eagle/ HTTP/1.1" 200 70
+INFO 2023-09-30 13:40:56,862 views 10316 13120 Выпала сторона: Сторона: решка, Время: 2023-09-30 10:40:56.745792+00:00
+INFO 2023-09-30 13:40:56,863 basehttp 10316 13120 "GET /eagle/ HTTP/1.1" 200 72
+WARNING 2023-09-30 13:41:02,739 log 10316 2188 Not Found: /show_elements/
+WARNING 2023-09-30 13:41:02,740 basehttp 10316 2188 "GET /show_elements/ HTTP/1.1" 404 3341
+WARNING 2023-09-30 13:41:02,789 log 10316 13120 Not Found: /show_elements/
+WARNING 2023-09-30 13:41:02,789 basehttp 10316 13120 "GET /show_elements/ HTTP/1.1" 404 3341
+ERROR 2023-09-30 13:41:08,664 log 10316 2188 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:41:08,666 basehttp 10316 2188 "GET /show_elements/3 HTTP/1.1" 500 71174
+ERROR 2023-09-30 13:41:08,759 log 10316 13120 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:41:08,761 basehttp 10316 13120 "GET /show_elements/3 HTTP/1.1" 500 70230
+INFO 2023-09-30 13:45:18,111 autoreload 10316 2944 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:45:18,508 autoreload 20952 18308 Watching for file changes with StatReloader
+INFO 2023-09-30 13:45:24,950 autoreload 20952 18308 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:45:25,372 autoreload 20852 15492 Watching for file changes with StatReloader
+INFO 2023-09-30 13:45:33,833 autoreload 20852 15492 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:45:34,215 autoreload 19928 9876 Watching for file changes with StatReloader
+INFO 2023-09-30 13:46:12,292 autoreload 19928 9876 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:46:12,672 autoreload 6972 6584 Watching for file changes with StatReloader
+INFO 2023-09-30 13:47:00,231 autoreload 16468 13468 Watching for file changes with StatReloader
+INFO 2023-09-30 13:47:09,325 basehttp 16468 3488 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 13:47:09,528 basehttp 16468 16644 "GET / HTTP/1.1" 200 12
+ERROR 2023-09-30 13:47:26,993 log 16468 3488 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:47:26,995 basehttp 16468 3488 "GET /show_elements/3 HTTP/1.1" 500 71635
+ERROR 2023-09-30 13:47:27,248 log 16468 3488 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:47:27,250 basehttp 16468 3488 "GET /show_elements/3 HTTP/1.1" 500 71361
+ERROR 2023-09-30 13:47:27,388 log 16468 16644 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:47:27,390 basehttp 16468 16644 "GET /show_elements/3 HTTP/1.1" 500 70417
+INFO 2023-09-30 13:53:39,760 autoreload 17816 14340 Watching for file changes with StatReloader
+INFO 2023-09-30 13:53:40,890 basehttp 17816 8844 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 13:53:41,095 basehttp 17816 13476 "GET / HTTP/1.1" 200 12
+ERROR 2023-09-30 13:53:46,230 log 17816 8844 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:53:46,232 basehttp 17816 8844 "GET /show_elements/3 HTTP/1.1" 500 71635
+ERROR 2023-09-30 13:53:46,520 log 17816 8844 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:53:46,521 basehttp 17816 8844 "GET /show_elements/3 HTTP/1.1" 500 71361
+ERROR 2023-09-30 13:53:46,658 log 17816 13476 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:53:46,660 basehttp 17816 13476 "GET /show_elements/3 HTTP/1.1" 500 70417
+ERROR 2023-09-30 13:54:18,647 log 17816 8844 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:54:18,649 basehttp 17816 8844 "GET /show_elements/3 HTTP/1.1" 500 71498
+ERROR 2023-09-30 13:54:18,871 log 17816 13476 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 25, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 13:54:18,873 basehttp 17816 13476 "GET /show_elements/3 HTTP/1.1" 500 70417
+INFO 2023-09-30 13:55:51,185 autoreload 17816 14340 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:55:51,556 autoreload 19596 19124 Watching for file changes with StatReloader
+INFO 2023-09-30 13:59:14,124 autoreload 19596 19124 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 13:59:14,565 autoreload 10868 8224 Watching for file changes with StatReloader
+INFO 2023-09-30 14:01:44,912 autoreload 10868 8224 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\urls.py changed, reloading.
+INFO 2023-09-30 14:01:45,300 autoreload 2784 8964 Watching for file changes with StatReloader
+INFO 2023-09-30 14:01:45,483 basehttp 2784 20000 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 14:01:45,692 basehttp 2784 13892 "GET / HTTP/1.1" 200 12
+WARNING 2023-09-30 14:01:54,596 log 2784 20000 Not Found: /show_elements
+WARNING 2023-09-30 14:01:54,596 basehttp 2784 20000 "GET /show_elements HTTP/1.1" 404 3338
+WARNING 2023-09-30 14:01:54,655 log 2784 13892 Not Found: /show_elements
+WARNING 2023-09-30 14:01:54,656 basehttp 2784 13892 "GET /show_elements HTTP/1.1" 404 3338
+ERROR 2023-09-30 14:01:58,110 log 2784 20000 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 22, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 14:01:58,112 basehttp 2784 20000 "GET /show_elements/3 HTTP/1.1" 500 71650
+ERROR 2023-09-30 14:01:58,442 log 2784 20000 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 22, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 14:01:58,444 basehttp 2784 20000 "GET /show_elements/3 HTTP/1.1" 500 71376
+ERROR 2023-09-30 14:01:58,567 log 2784 13892 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 22, in counter
+    coins = Coin.object.all()
+            ^^^^^^^^^^^
+AttributeError: type object 'Coin' has no attribute 'object'
+ERROR 2023-09-30 14:01:58,569 basehttp 2784 13892 "GET /show_elements/3 HTTP/1.1" 500 70432
+INFO 2023-09-30 14:08:26,104 autoreload 2784 8964 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 14:08:26,463 autoreload 15996 12108 Watching for file changes with StatReloader
+INFO 2023-09-30 14:08:27,955 basehttp 15996 8140 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 14:08:28,161 basehttp 15996 9444 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 14:08:35,276 basehttp 15996 8140 "GET /show_elements/3 HTTP/1.1" 200 236
+INFO 2023-09-30 14:08:35,418 basehttp 15996 9444 "GET /show_elements/3 HTTP/1.1" 200 236
+INFO 2023-09-30 14:52:55,044 autoreload 13548 20520 Watching for file changes with StatReloader
+INFO 2023-09-30 14:53:04,437 autoreload 13548 20520 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 14:53:04,873 autoreload 15004 10420 Watching for file changes with StatReloader
+INFO 2023-09-30 14:53:06,772 basehttp 15004 16324 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 14:53:07,012 basehttp 15004 17832 "GET / HTTP/1.1" 200 12
+ERROR 2023-09-30 14:53:12,279 log 15004 16324 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 22, in counter
+    coins = Coin.objects.all()[-1:-n - 1:-1]
+            ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 429, in __getitem__
+    raise ValueError("Negative indexing is not supported.")
+ValueError: Negative indexing is not supported.
+ERROR 2023-09-30 14:53:12,283 basehttp 15004 16324 "GET /show_elements/3 HTTP/1.1" 500 76918
+ERROR 2023-09-30 14:53:12,436 log 15004 17832 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 22, in counter
+    coins = Coin.objects.all()[-1:-n - 1:-1]
+            ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 429, in __getitem__
+    raise ValueError("Negative indexing is not supported.")
+ValueError: Negative indexing is not supported.
+ERROR 2023-09-30 14:53:12,438 basehttp 15004 17832 "GET /show_elements/3 HTTP/1.1" 500 75974
+INFO 2023-09-30 14:57:17,447 autoreload 15004 10420 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 14:57:17,855 autoreload 13848 16980 Watching for file changes with StatReloader
+INFO 2023-09-30 14:57:29,336 autoreload 13848 16980 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 14:57:29,701 autoreload 15668 17092 Watching for file changes with StatReloader
+INFO 2023-09-30 14:57:40,636 basehttp 15668 20424 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 14:57:40,775 basehttp 15668 17652 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 14:57:41,347 autoreload 15668 17092 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 14:57:41,724 autoreload 14104 20520 Watching for file changes with StatReloader
+ERROR 2023-09-30 14:57:47,407 log 14104 6104 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 29, in counter
+    coins_dict['решка'] +=1
+    ~~~~~~~~~~^^^^^^^^^
+KeyError: 'решка'
+ERROR 2023-09-30 14:57:47,411 basehttp 14104 6104 "GET /show_elements/3 HTTP/1.1" 500 71911
+ERROR 2023-09-30 14:57:47,553 log 14104 8724 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 29, in counter
+    coins_dict['решка'] +=1
+    ~~~~~~~~~~^^^^^^^^^
+KeyError: 'решка'
+ERROR 2023-09-30 14:57:47,555 basehttp 14104 8724 "GET /show_elements/3 HTTP/1.1" 500 70967
+INFO 2023-09-30 14:58:15,778 autoreload 14104 20520 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 14:58:16,158 autoreload 15492 15720 Watching for file changes with StatReloader
+INFO 2023-09-30 14:58:49,130 autoreload 15492 15720 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 14:58:49,507 autoreload 14392 18372 Watching for file changes with StatReloader
+ERROR 2023-09-30 14:58:52,494 log 14392 9896 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 29, in counter
+    coins_dict['решка'] += 1
+    ~~~~~~~~~~^^^^^^^^^
+KeyError: 'решка'
+ERROR 2023-09-30 14:58:52,495 basehttp 14392 9896 "GET /show_elements/3 HTTP/1.1" 500 72051
+ERROR 2023-09-30 14:58:52,592 log 14392 7032 Internal Server Error: /show_elements/3
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 20, in show_elements
+    return HttpResponse(f'{Coin.counter(n)}')
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py", line 29, in counter
+    coins_dict['решка'] += 1
+    ~~~~~~~~~~^^^^^^^^^
+KeyError: 'решка'
+ERROR 2023-09-30 14:58:52,594 basehttp 14392 7032 "GET /show_elements/3 HTTP/1.1" 500 70970
+INFO 2023-09-30 14:59:42,050 autoreload 14392 18372 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 14:59:42,443 autoreload 21488 2948 Watching for file changes with StatReloader
+INFO 2023-09-30 14:59:57,083 basehttp 21488 4652 "GET /show_elements/3 HTTP/1.1" 200 32
+INFO 2023-09-30 14:59:57,138 basehttp 21488 17012 "GET /show_elements/3 HTTP/1.1" 200 32
+INFO 2023-09-30 14:59:59,063 basehttp 21488 4652 "GET /show_elements/3 HTTP/1.1" 200 32
+INFO 2023-09-30 14:59:59,110 basehttp 21488 17012 "GET /show_elements/3 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:04,725 basehttp 21488 4652 "GET /show_elements/5 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:04,768 basehttp 21488 17012 "GET /show_elements/5 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:08,398 basehttp 21488 4652 "GET /show_elements/4 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:08,445 basehttp 21488 17012 "GET /show_elements/4 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:28,118 basehttp 21488 4652 "GET /show_elements/7 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:28,164 basehttp 21488 17012 "GET /show_elements/7 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:32,964 basehttp 21488 4652 "GET /show_elements/8 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:33,010 basehttp 21488 17012 "GET /show_elements/8 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:36,556 basehttp 21488 4652 "GET /show_elements/10 HTTP/1.1" 200 32
+INFO 2023-09-30 15:00:36,599 basehttp 21488 17012 "GET /show_elements/10 HTTP/1.1" 200 32
+INFO 2023-09-30 15:02:10,237 autoreload 21488 2948 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 15:02:10,631 autoreload 7248 9244 Watching for file changes with StatReloader
+INFO 2023-09-30 15:02:35,340 autoreload 7248 9244 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 15:02:35,740 autoreload 4992 14876 Watching for file changes with StatReloader
+INFO 2023-09-30 15:02:42,058 autoreload 4992 14876 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 15:02:42,468 autoreload 5316 4956 Watching for file changes with StatReloader
+INFO 2023-09-30 15:02:46,752 autoreload 5316 4956 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 15:02:47,138 autoreload 11092 20520 Watching for file changes with StatReloader
+INFO 2023-09-30 15:02:52,503 autoreload 11092 20520 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp2\models.py changed, reloading.
+INFO 2023-09-30 15:02:52,888 autoreload 16448 2664 Watching for file changes with StatReloader
