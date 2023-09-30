@@ -91,3 +91,41 @@ INFO 2023-09-30 11:52:26,454 basehttp 19172 15428 "GET /eagle/ HTTP/1.1" 200 8
 INFO 2023-09-30 11:52:26,490 views 19172 7232 Выпала сторона: орёл
 INFO 2023-09-30 11:52:26,490 basehttp 19172 7232 "GET /eagle/ HTTP/1.1" 200 8
 INFO 2023-09-30 12:02:51,341 autoreload 13236 17940 Watching for file changes with StatReloader
+INFO 2023-09-30 12:38:16,027 autoreload 15212 5344 Watching for file changes with StatReloader
+INFO 2023-09-30 12:38:18,028 basehttp 15212 14904 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 12:38:18,252 basehttp 15212 8924 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 12:38:24,468 views 15212 14904 посещение страницы about в: 2023-09-30 12:38:24.468243
+INFO 2023-09-30 12:38:24,469 basehttp 15212 14904 "GET /about/ HTTP/1.1" 200 1702
+INFO 2023-09-30 12:38:24,535 views 15212 8924 посещение страницы about в: 2023-09-30 12:38:24.535290
+INFO 2023-09-30 12:38:24,535 basehttp 15212 8924 "GET /about/ HTTP/1.1" 200 1702
+INFO 2023-09-30 12:39:23,797 autoreload 15212 5344 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\urls.py changed, reloading.
+INFO 2023-09-30 12:39:24,244 autoreload 18924 1440 Watching for file changes with StatReloader
+WARNING 2023-09-30 12:39:31,437 log 18924 9168 Not Found: /main_page/
+WARNING 2023-09-30 12:39:31,438 basehttp 18924 9168 "GET /main_page/ HTTP/1.1" 404 3132
+WARNING 2023-09-30 12:39:31,496 log 18924 21500 Not Found: /main_page/
+WARNING 2023-09-30 12:39:31,497 basehttp 18924 21500 "GET /main_page/ HTTP/1.1" 404 3132
+INFO 2023-09-30 12:41:07,877 autoreload 18924 1440 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-09-30 12:41:08,289 autoreload 18020 14248 Watching for file changes with StatReloader
+WARNING 2023-09-30 12:41:09,861 log 18020 2940 Not Found: /main_page/
+WARNING 2023-09-30 12:41:09,862 basehttp 18020 2940 "GET /main_page/ HTTP/1.1" 404 3132
+WARNING 2023-09-30 12:41:09,914 log 18020 11432 Not Found: /main_page/
+WARNING 2023-09-30 12:41:09,915 basehttp 18020 11432 "GET /main_page/ HTTP/1.1" 404 3132
+INFO 2023-09-30 12:42:10,775 autoreload 19204 17416 Watching for file changes with StatReloader
+INFO 2023-09-30 12:42:11,931 basehttp 19204 8800 "GET / HTTP/1.1" 200 12
+INFO 2023-09-30 12:42:12,071 basehttp 19204 8320 "GET / HTTP/1.1" 200 12
+WARNING 2023-09-30 12:42:24,979 log 19204 8800 Not Found: /main_page/
+WARNING 2023-09-30 12:42:24,979 basehttp 19204 8800 "GET /main_page/ HTTP/1.1" 404 3123
+WARNING 2023-09-30 12:42:25,035 log 19204 8320 Not Found: /main_page/
+WARNING 2023-09-30 12:42:25,036 basehttp 19204 8320 "GET /main_page/ HTTP/1.1" 404 3123
+INFO 2023-09-30 12:42:39,706 autoreload 19204 17416 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\urls.py changed, reloading.
+INFO 2023-09-30 12:42:40,108 autoreload 8224 9236 Watching for file changes with StatReloader
+WARNING 2023-09-30 12:42:40,511 log 8224 3292 Not Found: /main_page/
+WARNING 2023-09-30 12:42:40,511 basehttp 8224 3292 "GET /main_page/ HTTP/1.1" 404 3132
+WARNING 2023-09-30 12:42:40,565 log 8224 7964 Not Found: /main_page/
+WARNING 2023-09-30 12:42:40,565 basehttp 8224 7964 "GET /main_page/ HTTP/1.1" 404 3132
+INFO 2023-09-30 12:42:50,694 autoreload 8224 9236 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\urls.py changed, reloading.
+INFO 2023-09-30 12:42:51,104 autoreload 13756 16220 Watching for file changes with StatReloader
+INFO 2023-09-30 12:42:51,506 views 13756 21140 посещение страницы index в: 2023-09-30 12:42:51.506702
+INFO 2023-09-30 12:42:51,507 basehttp 13756 21140 "GET /main_page/ HTTP/1.1" 200 1779
+INFO 2023-09-30 12:42:51,554 views 13756 9312 посещение страницы index в: 2023-09-30 12:42:51.554202
+INFO 2023-09-30 12:42:51,555 basehttp 13756 9312 "GET /main_page/ HTTP/1.1" 200 1779
