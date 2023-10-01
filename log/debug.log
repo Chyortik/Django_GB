@@ -1,0 +1,1189 @@
+INFO 2023-10-01 15:24:46,079 autoreload 152 7232 Watching for file changes with StatReloader
+INFO 2023-10-01 15:26:29,124 basehttp 152 15868 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 15:26:29,263 basehttp 152 14260 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 15:26:35,134 views 152 15868 посещение страницы index в: 2023-10-01 15:26:35.134974
+INFO 2023-10-01 15:26:35,135 basehttp 152 15868 "GET /main_page/ HTTP/1.1" 200 1779
+INFO 2023-10-01 15:26:35,185 views 152 14260 посещение страницы index в: 2023-10-01 15:26:35.184522
+INFO 2023-10-01 15:26:35,185 basehttp 152 14260 "GET /main_page/ HTTP/1.1" 200 1779
+INFO 2023-10-01 15:27:04,276 basehttp 152 15868 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 15:27:04,315 basehttp 152 14260 "GET / HTTP/1.1" 200 12
+WARNING 2023-10-01 15:27:18,730 log 152 15868 Not Found: /app3/
+WARNING 2023-10-01 15:27:18,731 basehttp 152 15868 "GET /app3/ HTTP/1.1" 404 3314
+WARNING 2023-10-01 15:27:18,824 log 152 14260 Not Found: /app3/
+WARNING 2023-10-01 15:27:18,825 basehttp 152 14260 "GET /app3/ HTTP/1.1" 404 3314
+INFO 2023-10-01 15:27:34,493 autoreload 2664 8528 Watching for file changes with StatReloader
+INFO 2023-10-01 15:27:36,207 basehttp 2664 7996 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 15:27:36,334 basehttp 2664 1260 "GET / HTTP/1.1" 200 12
+WARNING 2023-10-01 15:27:41,384 log 2664 7996 Not Found: /app3/
+WARNING 2023-10-01 15:27:41,385 basehttp 2664 7996 "GET /app3/ HTTP/1.1" 404 3314
+WARNING 2023-10-01 15:27:41,437 log 2664 1260 Not Found: /app3/
+WARNING 2023-10-01 15:27:41,437 basehttp 2664 1260 "GET /app3/ HTTP/1.1" 404 3314
+WARNING 2023-10-01 15:29:51,388 log 2664 7996 Not Found: /app3/
+WARNING 2023-10-01 15:29:51,389 basehttp 2664 7996 "GET /app3/ HTTP/1.1" 404 3314
+WARNING 2023-10-01 15:29:51,438 log 2664 1260 Not Found: /app3/
+WARNING 2023-10-01 15:29:51,438 basehttp 2664 1260 "GET /app3/ HTTP/1.1" 404 3314
+INFO 2023-10-01 15:29:59,330 views 2664 7996 посещение страницы about в: 2023-10-01 15:29:59.330215
+INFO 2023-10-01 15:29:59,331 basehttp 2664 7996 "GET /about/ HTTP/1.1" 200 1702
+INFO 2023-10-01 15:29:59,510 views 2664 1260 посещение страницы about в: 2023-10-01 15:29:59.509240
+INFO 2023-10-01 15:29:59,510 basehttp 2664 1260 "GET /about/ HTTP/1.1" 200 1702
+WARNING 2023-10-01 15:30:04,157 log 2664 1260 Not Found: /app3/
+WARNING 2023-10-01 15:30:04,157 basehttp 2664 1260 "GET /app3/ HTTP/1.1" 404 3314
+INFO 2023-10-01 15:30:04,653 basehttp 2664 1260 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 15:30:07,419 basehttp 2664 7996 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 15:30:07,458 basehttp 2664 1260 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 15:32:52,627 autoreload 2664 8528 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\urls.py changed, reloading.
+INFO 2023-10-01 15:32:53,008 autoreload 7820 16004 Watching for file changes with StatReloader
+INFO 2023-10-01 15:32:54,758 basehttp 7820 8512 "GET /app3/ HTTP/1.1" 200 487
+INFO 2023-10-01 15:33:02,619 autoreload 14432 9324 Watching for file changes with StatReloader
+INFO 2023-10-01 15:33:03,643 basehttp 14432 9740 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 15:33:03,768 basehttp 14432 12816 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 15:33:08,557 basehttp 14432 9740 "GET /app3 HTTP/1.1" 301 0
+INFO 2023-10-01 15:33:08,569 basehttp 14432 13456 "GET /app3/ HTTP/1.1" 200 487
+INFO 2023-10-01 15:33:08,618 basehttp 14432 12816 "GET /app3/ HTTP/1.1" 200 487
+INFO 2023-10-01 15:33:54,121 autoreload 14432 9324 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 15:33:54,492 autoreload 14620 2208 Watching for file changes with StatReloader
+INFO 2023-10-01 15:33:55,214 basehttp 14620 15444 "GET /app3/ HTTP/1.1" 200 137
+INFO 2023-10-01 15:33:55,262 basehttp 14620 12804 "GET /app3/ HTTP/1.1" 200 137
+INFO 2023-10-01 15:35:01,247 basehttp 14620 15444 "GET /app3/ HTTP/1.1" 200 523
+INFO 2023-10-01 15:35:01,301 basehttp 14620 12804 "GET /app3/ HTTP/1.1" 200 523
+INFO 2023-10-01 15:35:14,746 autoreload 14620 2208 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 15:35:15,125 autoreload 13940 168 Watching for file changes with StatReloader
+INFO 2023-10-01 15:35:15,287 basehttp 13940 16816 "GET /app3/ HTTP/1.1" 200 524
+INFO 2023-10-01 15:35:15,333 basehttp 13940 1260 "GET /app3/ HTTP/1.1" 200 524
+INFO 2023-10-01 15:38:12,090 autoreload 13940 168 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 15:38:12,527 autoreload 14640 19112 Watching for file changes with StatReloader
+INFO 2023-10-01 15:38:36,306 autoreload 14640 19112 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 15:38:36,676 autoreload 18684 21324 Watching for file changes with StatReloader
+INFO 2023-10-01 15:38:41,419 views 18684 14824 посещение страницы about в: 2023-10-01 15:38:41.418648
+INFO 2023-10-01 15:38:41,419 basehttp 18684 14824 "GET /about/ HTTP/1.1" 200 1702
+INFO 2023-10-01 15:38:41,623 views 18684 20632 посещение страницы about в: 2023-10-01 15:38:41.623111
+INFO 2023-10-01 15:38:41,624 basehttp 18684 20632 "GET /about/ HTTP/1.1" 200 1702
+INFO 2023-10-01 15:38:52,398 autoreload 18684 21324 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 15:38:52,785 autoreload 1632 7976 Watching for file changes with StatReloader
+INFO 2023-10-01 15:38:55,167 basehttp 1632 21052 "GET /about3/ HTTP/1.1" 200 123
+INFO 2023-10-01 15:38:55,228 basehttp 1632 664 "GET /about3/ HTTP/1.1" 200 123
+INFO 2023-10-01 15:39:17,004 basehttp 1632 21052 "GET /about3/ HTTP/1.1" 200 184
+INFO 2023-10-01 15:39:17,048 basehttp 1632 664 "GET /about3/ HTTP/1.1" 200 184
+INFO 2023-10-01 15:40:24,262 autoreload 1632 7976 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 15:40:24,667 autoreload 14952 3196 Watching for file changes with StatReloader
+INFO 2023-10-01 15:40:28,722 basehttp 14952 7912 "GET /about3/ HTTP/1.1" 200 184
+INFO 2023-10-01 15:40:28,767 basehttp 14952 18940 "GET /about3/ HTTP/1.1" 200 184
+INFO 2023-10-01 15:40:29,979 views 14952 18940 посещение страницы about в: 2023-10-01 15:40:29.979245
+INFO 2023-10-01 15:40:29,980 basehttp 14952 18940 "GET /about/ HTTP/1.1" 200 1702
+INFO 2023-10-01 15:40:30,913 basehttp 14952 18940 "GET /app3/ HTTP/1.1" 200 474
+INFO 2023-10-01 16:21:45,772 basehttp 14952 1096 "GET /app3/ HTTP/1.1" 200 590
+INFO 2023-10-01 16:21:45,911 basehttp 14952 1260 "GET /app3/ HTTP/1.1" 200 590
+INFO 2023-10-01 16:22:32,002 autoreload 14952 3196 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:22:32,371 autoreload 15144 20076 Watching for file changes with StatReloader
+INFO 2023-10-01 16:23:03,325 autoreload 15144 20076 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:23:03,725 autoreload 1656 10132 Watching for file changes with StatReloader
+INFO 2023-10-01 16:23:04,707 basehttp 1656 20360 "GET /app3/ HTTP/1.1" 200 843
+INFO 2023-10-01 16:23:04,754 basehttp 1656 2140 "GET /app3/ HTTP/1.1" 200 843
+INFO 2023-10-01 16:23:14,224 autoreload 1656 10132 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:23:14,607 autoreload 15500 16796 Watching for file changes with StatReloader
+INFO 2023-10-01 16:23:14,944 basehttp 15500 7296 "GET /app3/ HTTP/1.1" 200 845
+INFO 2023-10-01 16:23:14,988 basehttp 15500 13384 "GET /app3/ HTTP/1.1" 200 845
+INFO 2023-10-01 16:23:26,121 autoreload 15500 16796 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:23:26,488 autoreload 4360 4748 Watching for file changes with StatReloader
+INFO 2023-10-01 16:23:26,619 basehttp 4360 18360 "GET /app3/ HTTP/1.1" 200 855
+INFO 2023-10-01 16:23:26,667 basehttp 4360 2920 "GET /app3/ HTTP/1.1" 200 855
+INFO 2023-10-01 16:23:33,930 autoreload 4360 4748 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:23:34,321 autoreload 2600 12700 Watching for file changes with StatReloader
+INFO 2023-10-01 16:23:35,159 basehttp 2600 9740 "GET /app3/ HTTP/1.1" 200 855
+INFO 2023-10-01 16:23:35,204 basehttp 2600 17440 "GET /app3/ HTTP/1.1" 200 855
+INFO 2023-10-01 16:23:40,711 autoreload 2600 12700 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:23:41,074 autoreload 13108 17344 Watching for file changes with StatReloader
+INFO 2023-10-01 16:23:41,740 basehttp 13108 14488 "GET /app3/ HTTP/1.1" 200 854
+INFO 2023-10-01 16:23:41,784 basehttp 13108 9204 "GET /app3/ HTTP/1.1" 200 854
+INFO 2023-10-01 16:23:54,649 autoreload 13108 17344 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:23:55,033 autoreload 11304 13336 Watching for file changes with StatReloader
+INFO 2023-10-01 16:23:55,290 basehttp 11304 20632 "GET /app3/ HTTP/1.1" 200 845
+INFO 2023-10-01 16:23:55,334 basehttp 11304 17036 "GET /app3/ HTTP/1.1" 200 845
+INFO 2023-10-01 16:24:04,477 autoreload 11304 13336 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:24:04,857 autoreload 15424 21292 Watching for file changes with StatReloader
+INFO 2023-10-01 16:24:05,121 basehttp 15424 20244 "GET /app3/ HTTP/1.1" 200 848
+INFO 2023-10-01 16:24:05,169 basehttp 15424 19892 "GET /app3/ HTTP/1.1" 200 848
+INFO 2023-10-01 16:24:11,246 autoreload 15424 21292 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:24:11,617 autoreload 17712 4160 Watching for file changes with StatReloader
+INFO 2023-10-01 16:24:12,836 basehttp 17712 1992 "GET /app3/ HTTP/1.1" 200 844
+INFO 2023-10-01 16:24:12,885 basehttp 17712 2452 "GET /app3/ HTTP/1.1" 200 844
+INFO 2023-10-01 16:25:17,404 autoreload 17712 4160 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 16:25:17,787 autoreload 12248 16216 Watching for file changes with StatReloader
+INFO 2023-10-01 16:25:18,547 basehttp 12248 19140 "GET /app3/ HTTP/1.1" 200 863
+INFO 2023-10-01 16:25:18,660 basehttp 12248 9860 "GET /app3/ HTTP/1.1" 200 863
+INFO 2023-10-01 16:25:36,763 basehttp 12248 19140 "GET /app3/ HTTP/1.1" 200 859
+INFO 2023-10-01 16:25:36,809 basehttp 12248 9860 "GET /app3/ HTTP/1.1" 200 859
+INFO 2023-10-01 16:27:21,912 basehttp 12248 9860 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 16:27:23,450 basehttp 12248 9860 "GET /app3/ HTTP/1.1" 200 858
+INFO 2023-10-01 16:27:23,955 views 12248 9860 посещение страницы about в: 2023-10-01 16:27:23.955986
+INFO 2023-10-01 16:27:23,956 basehttp 12248 9860 "GET /about/ HTTP/1.1" 200 1702
+INFO 2023-10-01 16:27:26,782 basehttp 12248 9860 "GET /about3/ HTTP/1.1" 200 240
+INFO 2023-10-01 16:27:49,677 basehttp 12248 19140 "GET /about3/ HTTP/1.1" 200 240
+INFO 2023-10-01 16:27:49,722 basehttp 12248 9860 "GET /about3/ HTTP/1.1" 200 240
+INFO 2023-10-01 16:30:52,126 autoreload 12248 16216 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\urls.py changed, reloading.
+INFO 2023-10-01 16:30:52,536 autoreload 2308 19652 Watching for file changes with StatReloader
+INFO 2023-10-01 16:31:25,610 autoreload 2308 19652 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py changed, reloading.
+INFO 2023-10-01 16:31:26,032 autoreload 14124 3088 Watching for file changes with StatReloader
+INFO 2023-10-01 16:31:34,485 autoreload 14124 3088 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py changed, reloading.
+INFO 2023-10-01 16:31:34,902 autoreload 6404 14396 Watching for file changes with StatReloader
+INFO 2023-10-01 16:35:42,892 autoreload 6404 14396 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py changed, reloading.
+INFO 2023-10-01 16:35:43,271 autoreload 9024 19184 Watching for file changes with StatReloader
+INFO 2023-10-01 16:35:48,666 autoreload 9024 19184 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py changed, reloading.
+INFO 2023-10-01 16:35:49,038 autoreload 5040 14152 Watching for file changes with StatReloader
+INFO 2023-10-01 16:35:55,455 autoreload 5040 14152 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py changed, reloading.
+INFO 2023-10-01 16:35:55,809 autoreload 15288 15340 Watching for file changes with StatReloader
+INFO 2023-10-01 16:36:00,070 autoreload 15288 15340 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py changed, reloading.
+INFO 2023-10-01 16:36:00,436 autoreload 11172 15776 Watching for file changes with StatReloader
+INFO 2023-10-01 16:43:53,967 autoreload 32 9024 Watching for file changes with StatReloader
+INFO 2023-10-01 16:43:55,369 basehttp 32 11016 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 16:43:55,610 basehttp 32 17204 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 16:43:57,806 basehttp 32 11016 "GET /about3/ HTTP/1.1" 200 240
+INFO 2023-10-01 16:43:57,900 basehttp 32 17204 "GET /about3/ HTTP/1.1" 200 240
+INFO 2023-10-01 16:44:00,679 views 32 17204 посещение страницы about в: 2023-10-01 16:44:00.679046
+INFO 2023-10-01 16:44:00,680 basehttp 32 17204 "GET /about/ HTTP/1.1" 200 1702
+INFO 2023-10-01 16:44:01,368 basehttp 32 17204 "GET /app3/ HTTP/1.1" 200 863
+INFO 2023-10-01 16:44:02,274 basehttp 32 11016 "GET /app3/ HTTP/1.1" 200 863
+INFO 2023-10-01 16:44:02,317 basehttp 32 17204 "GET /app3/ HTTP/1.1" 200 863
+INFO 2023-10-01 16:44:08,546 basehttp 32 17204 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 16:44:09,776 basehttp 32 17204 "GET /app3/ HTTP/1.1" 200 863
+INFO 2023-10-01 16:44:10,305 basehttp 32 11016 "GET /app3/ HTTP/1.1" 200 863
+INFO 2023-10-01 16:44:10,344 basehttp 32 17204 "GET /app3/ HTTP/1.1" 200 863
+INFO 2023-10-01 16:44:37,665 basehttp 32 11016 "GET /app3/ HTTP/1.1" 200 249
+INFO 2023-10-01 16:44:37,716 basehttp 32 17204 "GET /app3/ HTTP/1.1" 200 249
+INFO 2023-10-01 16:45:06,042 basehttp 32 11016 "GET /eagle/3 HTTP/1.1" 200 394
+INFO 2023-10-01 16:45:06,093 basehttp 32 17204 "GET /eagle/3 HTTP/1.1" 200 392
+INFO 2023-10-01 16:45:10,415 basehttp 32 11016 "GET /eagle/3 HTTP/1.1" 200 392
+INFO 2023-10-01 16:45:10,459 basehttp 32 17204 "GET /eagle/3 HTTP/1.1" 200 394
+INFO 2023-10-01 16:45:32,686 autoreload 32 9024 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py changed, reloading.
+INFO 2023-10-01 16:45:33,096 autoreload 2688 1636 Watching for file changes with StatReloader
+INFO 2023-10-01 16:45:35,303 basehttp 2688 12228 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 16:45:35,342 basehttp 2688 3676 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 16:45:43,443 basehttp 2688 12228 "GET /eagle/3 HTTP/1.1" 200 365
+INFO 2023-10-01 16:45:43,492 basehttp 2688 3676 "GET /eagle/3 HTTP/1.1" 200 361
+INFO 2023-10-01 16:45:45,701 basehttp 2688 12228 "GET /eagle/3 HTTP/1.1" 200 363
+INFO 2023-10-01 16:45:45,744 basehttp 2688 3676 "GET /eagle/3 HTTP/1.1" 200 361
+INFO 2023-10-01 16:45:46,489 basehttp 2688 12228 "GET /eagle/3 HTTP/1.1" 200 365
+INFO 2023-10-01 16:45:46,528 basehttp 2688 3676 "GET /eagle/3 HTTP/1.1" 200 363
+INFO 2023-10-01 16:45:47,246 basehttp 2688 12228 "GET /eagle/3 HTTP/1.1" 200 363
+INFO 2023-10-01 16:45:47,287 basehttp 2688 3676 "GET /eagle/3 HTTP/1.1" 200 359
+INFO 2023-10-01 16:45:48,002 basehttp 2688 12228 "GET /eagle/3 HTTP/1.1" 200 361
+INFO 2023-10-01 16:45:48,044 basehttp 2688 3676 "GET /eagle/3 HTTP/1.1" 200 361
+INFO 2023-10-01 16:45:48,817 basehttp 2688 12228 "GET /eagle/3 HTTP/1.1" 200 363
+INFO 2023-10-01 16:45:48,854 basehttp 2688 3676 "GET /eagle/3 HTTP/1.1" 200 359
+INFO 2023-10-01 18:28:03,891 autoreload 2688 1636 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 18:28:04,897 autoreload 20360 3292 Watching for file changes with StatReloader
+INFO 2023-10-01 18:29:46,842 autoreload 20360 3292 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 18:29:47,267 autoreload 20968 11548 Watching for file changes with StatReloader
+INFO 2023-10-01 18:30:04,928 autoreload 20968 11548 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 18:30:05,351 autoreload 8748 13520 Watching for file changes with StatReloader
+INFO 2023-10-01 18:39:44,912 autoreload 14532 9672 Watching for file changes with StatReloader
+INFO 2023-10-01 18:42:12,078 autoreload 14532 9672 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 18:42:12,502 autoreload 21072 13148 Watching for file changes with StatReloader
+INFO 2023-10-01 18:42:42,451 basehttp 21072 18632 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 18:42:42,680 basehttp 21072 11160 "GET / HTTP/1.1" 200 12
+ERROR 2023-10-01 18:42:48,645 log 21072 18632 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:42:48,651 basehttp 21072 18632 "GET /articles/1 HTTP/1.1" 500 117844
+ERROR 2023-10-01 18:42:48,858 log 21072 11160 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:42:48,862 basehttp 21072 11160 "GET /articles/1 HTTP/1.1" 500 116900
+INFO 2023-10-01 18:48:03,132 autoreload 2396 16616 Watching for file changes with StatReloader
+INFO 2023-10-01 18:48:04,373 basehttp 2396 18436 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 18:48:04,508 basehttp 2396 15604 "GET / HTTP/1.1" 200 12
+ERROR 2023-10-01 18:48:07,723 log 2396 18436 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:48:07,727 basehttp 2396 18436 "GET /articles/1 HTTP/1.1" 500 119486
+ERROR 2023-10-01 18:48:07,810 log 2396 15604 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:48:07,813 basehttp 2396 15604 "GET /articles/1 HTTP/1.1" 500 118405
+ERROR 2023-10-01 18:48:20,522 log 2396 18436 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:48:20,525 basehttp 2396 18436 "GET /articles/1 HTTP/1.1" 500 119349
+ERROR 2023-10-01 18:48:20,677 log 2396 15604 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:48:20,682 basehttp 2396 15604 "GET /articles/1 HTTP/1.1" 500 118405
+ERROR 2023-10-01 18:49:24,871 log 2396 18436 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:49:24,877 basehttp 2396 18436 "GET /articles/1 HTTP/1.1" 500 119486
+ERROR 2023-10-01 18:49:24,986 log 2396 15604 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:49:24,989 basehttp 2396 15604 "GET /articles/1 HTTP/1.1" 500 118405
+INFO 2023-10-01 18:54:52,241 autoreload 2396 16616 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 18:54:52,658 autoreload 172 18636 Watching for file changes with StatReloader
+INFO 2023-10-01 18:55:10,332 autoreload 172 18636 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 18:55:10,768 autoreload 10664 13200 Watching for file changes with StatReloader
+ERROR 2023-10-01 18:55:12,278 log 10664 12264 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:55:12,284 basehttp 10664 12264 "GET /articles/1 HTTP/1.1" 500 119486
+ERROR 2023-10-01 18:55:12,408 log 10664 18488 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 18:55:12,411 basehttp 10664 18488 "GET /articles/1 HTTP/1.1" 500 118405
+WARNING 2023-10-01 19:00:13,117 log 10664 17608 Not Found: /articles/
+WARNING 2023-10-01 19:00:13,118 basehttp 10664 17608 "GET /articles/ HTTP/1.1" 404 3871
+WARNING 2023-10-01 19:00:13,177 log 10664 14864 Not Found: /articles/
+WARNING 2023-10-01 19:00:13,178 basehttp 10664 14864 "GET /articles/ HTTP/1.1" 404 3871
+ERROR 2023-10-01 19:01:48,377 log 10664 17608 Internal Server Error: /articles/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 19:01:48,380 basehttp 10664 17608 "GET /articles/2 HTTP/1.1" 500 119349
+ERROR 2023-10-01 19:01:48,495 log 10664 14864 Internal Server Error: /articles/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 19:01:48,498 basehttp 10664 14864 "GET /articles/2 HTTP/1.1" 500 118405
+INFO 2023-10-01 19:02:06,475 autoreload 10664 13200 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 19:02:06,884 autoreload 13636 21172 Watching for file changes with StatReloader
+ERROR 2023-10-01 19:02:07,052 log 13636 6416 Internal Server Error: /articles/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_articles() got an unexpected keyword argument 'author_id_id'
+ERROR 2023-10-01 19:02:07,053 basehttp 13636 6416 "GET /articles/2 HTTP/1.1" 500 65041
+ERROR 2023-10-01 19:02:07,148 log 13636 17788 Internal Server Error: /articles/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_articles() got an unexpected keyword argument 'author_id_id'
+ERROR 2023-10-01 19:02:07,150 basehttp 13636 17788 "GET /articles/2 HTTP/1.1" 500 63960
+INFO 2023-10-01 19:02:17,418 autoreload 13636 21172 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 19:02:17,801 autoreload 20640 14828 Watching for file changes with StatReloader
+ERROR 2023-10-01 19:02:18,273 log 20640 9640 Internal Server Error: /articles/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_articles() got an unexpected keyword argument 'id'
+ERROR 2023-10-01 19:02:18,276 basehttp 20640 9640 "GET /articles/2 HTTP/1.1" 500 64991
+ERROR 2023-10-01 19:02:18,370 log 20640 10400 Internal Server Error: /articles/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_articles() got an unexpected keyword argument 'id'
+ERROR 2023-10-01 19:02:18,371 basehttp 20640 10400 "GET /articles/2 HTTP/1.1" 500 63910
+INFO 2023-10-01 19:03:02,999 autoreload 20640 14828 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 19:03:03,391 autoreload 19096 18936 Watching for file changes with StatReloader
+ERROR 2023-10-01 19:03:03,636 log 19096 12384 Internal Server Error: /articles/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 19:03:03,644 basehttp 19096 12384 "GET /articles/2 HTTP/1.1" 500 119486
+ERROR 2023-10-01 19:03:03,758 log 19096 21224 Internal Server Error: /articles/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 19:03:03,761 basehttp 19096 21224 "GET /articles/2 HTTP/1.1" 500 118405
+ERROR 2023-10-01 19:03:12,969 log 19096 12384 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 19:03:12,972 basehttp 19096 12384 "GET /articles/1 HTTP/1.1" 500 119349
+ERROR 2023-10-01 19:03:13,086 log 19096 21224 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 35, in get_articles
+    authors = Author.objects.get(author_id=author_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_id' into field. Choices are: article, biography, birthdate, email, firstname, id, lastname
+ERROR 2023-10-01 19:03:13,089 basehttp 19096 21224 "GET /articles/1 HTTP/1.1" 500 118405
+INFO 2023-10-01 19:05:51,035 autoreload 19096 18936 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:05:51,435 autoreload 20464 884 Watching for file changes with StatReloader
+ERROR 2023-10-01 19:06:01,242 log 20464 20360 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp3.views.get_articles didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-10-01 19:06:01,243 basehttp 20464 20360 "GET /articles/1 HTTP/1.1" 500 69619
+ERROR 2023-10-01 19:06:01,864 log 20464 9492 Internal Server Error: /articles/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp3.views.get_articles didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-10-01 19:06:01,866 basehttp 20464 9492 "GET /articles/1 HTTP/1.1" 500 68538
+INFO 2023-10-01 19:06:22,676 autoreload 20464 884 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:06:23,368 autoreload 8628 6416 Watching for file changes with StatReloader
+INFO 2023-10-01 19:06:41,016 autoreload 8628 6416 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:06:41,385 autoreload 21092 5344 Watching for file changes with StatReloader
+INFO 2023-10-01 19:06:49,705 autoreload 21092 5344 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:06:50,072 autoreload 19880 18504 Watching for file changes with StatReloader
+INFO 2023-10-01 19:06:55,464 autoreload 19880 18504 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:06:55,854 autoreload 9616 10488 Watching for file changes with StatReloader
+INFO 2023-10-01 19:07:05,334 autoreload 9616 10488 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:07:05,728 autoreload 11820 15792 Watching for file changes with StatReloader
+INFO 2023-10-01 19:07:10,096 autoreload 11820 15792 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:07:10,488 autoreload 16132 15872 Watching for file changes with StatReloader
+INFO 2023-10-01 19:07:12,804 autoreload 16132 15872 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:07:13,180 autoreload 1156 15364 Watching for file changes with StatReloader
+INFO 2023-10-01 19:07:27,806 autoreload 1156 15364 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:07:28,193 autoreload 9708 5704 Watching for file changes with StatReloader
+INFO 2023-10-01 19:07:34,616 autoreload 9708 5704 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:07:35,011 autoreload 6440 19956 Watching for file changes with StatReloader
+INFO 2023-10-01 19:07:44,517 autoreload 6440 19956 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:07:44,945 autoreload 13976 4872 Watching for file changes with StatReloader
+INFO 2023-10-01 19:09:22,845 autoreload 13976 4872 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:09:23,238 autoreload 9808 19116 Watching for file changes with StatReloader
+INFO 2023-10-01 19:09:27,662 autoreload 9808 19116 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:09:28,045 autoreload 3156 11328 Watching for file changes with StatReloader
+INFO 2023-10-01 19:09:38,510 autoreload 3156 11328 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:09:38,889 autoreload 15248 15768 Watching for file changes with StatReloader
+INFO 2023-10-01 19:09:55,341 autoreload 15248 15768 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:09:55,718 autoreload 13112 5300 Watching for file changes with StatReloader
+INFO 2023-10-01 19:10:04,022 autoreload 13112 5300 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:10:04,392 autoreload 21356 13604 Watching for file changes with StatReloader
+INFO 2023-10-01 19:10:23,881 autoreload 21356 13604 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:10:24,249 autoreload 13292 16344 Watching for file changes with StatReloader
+INFO 2023-10-01 19:10:37,808 autoreload 13292 16344 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 19:10:38,268 autoreload 16688 5220 Watching for file changes with StatReloader
+INFO 2023-10-01 19:12:22,591 basehttp 16688 18120 "GET /articles/1 HTTP/1.1" 200 469
+INFO 2023-10-01 19:12:22,774 basehttp 16688 16184 "GET /articles/1 HTTP/1.1" 200 469
+INFO 2023-10-01 19:51:04,882 basehttp 16688 17796 "GET /articles/1 HTTP/1.1" 200 1091
+INFO 2023-10-01 19:51:05,009 basehttp 16688 17432 "GET /articles/1 HTTP/1.1" 200 1091
+INFO 2023-10-01 19:59:36,355 basehttp 16688 4884 "GET /articles/1 HTTP/1.1" 200 899
+INFO 2023-10-01 19:59:36,487 basehttp 16688 9960 "GET /articles/1 HTTP/1.1" 200 899
+INFO 2023-10-01 20:00:14,550 basehttp 16688 4884 "GET /articles/1 HTTP/1.1" 200 1071
+INFO 2023-10-01 20:00:14,604 basehttp 16688 9960 "GET /articles/1 HTTP/1.1" 200 1071
+INFO 2023-10-01 20:01:42,716 basehttp 16688 4884 "GET /articles/1 HTTP/1.1" 200 1241
+INFO 2023-10-01 20:01:42,769 basehttp 16688 9960 "GET /articles/1 HTTP/1.1" 200 1241
+INFO 2023-10-01 20:01:44,328 basehttp 16688 4884 "GET /articles/1 HTTP/1.1" 200 1241
+INFO 2023-10-01 20:01:44,370 basehttp 16688 9960 "GET /articles/1 HTTP/1.1" 200 1241
+INFO 2023-10-01 20:01:44,483 basehttp 16688 4884 "GET /articles/1 HTTP/1.1" 200 1241
+INFO 2023-10-01 20:01:44,533 basehttp 16688 9960 "GET /articles/1 HTTP/1.1" 200 1241
+INFO 2023-10-01 20:02:47,878 basehttp 16688 4884 "GET /articles/1 HTTP/1.1" 200 1311
+INFO 2023-10-01 20:02:47,930 basehttp 16688 9960 "GET /articles/1 HTTP/1.1" 200 1311
+INFO 2023-10-01 20:03:04,210 basehttp 16688 4884 "GET /articles/1 HTTP/1.1" 200 1311
+INFO 2023-10-01 20:03:04,256 basehttp 16688 9960 "GET /articles/1 HTTP/1.1" 200 1311
+INFO 2023-10-01 20:06:47,896 basehttp 16688 4884 "GET /articles/1 HTTP/1.1" 200 1371
+INFO 2023-10-01 20:06:48,001 basehttp 16688 9960 "GET /articles/1 HTTP/1.1" 200 1371
+INFO 2023-10-01 20:11:19,396 autoreload 16688 5220 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 20:11:19,841 autoreload 13252 20156 Watching for file changes with StatReloader
+INFO 2023-10-01 20:12:23,477 autoreload 13252 20156 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\urls.py changed, reloading.
+INFO 2023-10-01 20:12:23,881 autoreload 7004 14664 Watching for file changes with StatReloader
+INFO 2023-10-01 20:13:55,948 autoreload 7004 14664 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:13:56,371 autoreload 14732 11048 Watching for file changes with StatReloader
+INFO 2023-10-01 20:14:26,076 autoreload 14732 11048 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:14:26,464 autoreload 21084 6688 Watching for file changes with StatReloader
+INFO 2023-10-01 20:14:46,139 autoreload 21084 6688 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:14:46,539 autoreload 9956 12092 Watching for file changes with StatReloader
+INFO 2023-10-01 20:15:40,232 autoreload 9956 12092 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:15:40,644 autoreload 15148 21004 Watching for file changes with StatReloader
+INFO 2023-10-01 20:15:52,182 autoreload 15148 21004 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:15:52,576 autoreload 13620 19980 Watching for file changes with StatReloader
+INFO 2023-10-01 20:15:56,936 autoreload 13620 19980 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:15:57,321 autoreload 18260 14240 Watching for file changes with StatReloader
+INFO 2023-10-01 20:16:11,903 autoreload 18260 14240 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:16:12,283 autoreload 12076 21172 Watching for file changes with StatReloader
+INFO 2023-10-01 20:20:44,428 autoreload 12076 21172 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:20:44,833 autoreload 13236 9060 Watching for file changes with StatReloader
+INFO 2023-10-01 20:20:58,393 autoreload 13236 9060 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:20:58,815 autoreload 20804 7212 Watching for file changes with StatReloader
+INFO 2023-10-01 20:21:06,261 autoreload 20804 7212 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:21:06,624 autoreload 7048 2416 Watching for file changes with StatReloader
+INFO 2023-10-01 20:23:53,865 basehttp 7048 2640 "GET /articles/1 HTTP/1.1" 200 1403
+INFO 2023-10-01 20:23:54,138 basehttp 7048 14832 "GET /articles/1 HTTP/1.1" 200 1403
+ERROR 2023-10-01 20:23:55,137 log 7048 2640 Internal Server Error: /detail/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 44, in detail_article
+    article.count_views += 1
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'count_views'
+ERROR 2023-10-01 20:23:55,139 basehttp 7048 2640 "GET /detail/1 HTTP/1.1" 500 68843
+ERROR 2023-10-01 20:23:55,237 log 7048 14832 Internal Server Error: /detail/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 44, in detail_article
+    article.count_views += 1
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'count_views'
+ERROR 2023-10-01 20:23:55,239 basehttp 7048 14832 "GET /detail/1 HTTP/1.1" 500 67738
+INFO 2023-10-01 20:24:36,895 basehttp 7048 14832 "GET /articles/1 HTTP/1.1" 200 1403
+INFO 2023-10-01 20:24:37,541 basehttp 7048 2640 "GET /articles/1 HTTP/1.1" 200 1403
+INFO 2023-10-01 20:24:37,585 basehttp 7048 14832 "GET /articles/1 HTTP/1.1" 200 1403
+ERROR 2023-10-01 20:24:38,380 log 7048 2640 Internal Server Error: /detail/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 44, in detail_article
+    article.count_views += 1
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'count_views'
+ERROR 2023-10-01 20:24:38,381 basehttp 7048 2640 "GET /detail/1 HTTP/1.1" 500 68843
+ERROR 2023-10-01 20:24:38,441 log 7048 14832 Internal Server Error: /detail/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 44, in detail_article
+    article.count_views += 1
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'count_views'
+ERROR 2023-10-01 20:24:38,443 basehttp 7048 14832 "GET /detail/1 HTTP/1.1" 500 67738
+INFO 2023-10-01 20:26:31,150 basehttp 7048 14832 "GET /articles/1 HTTP/1.1" 200 1403
+ERROR 2023-10-01 20:27:16,685 log 7048 2640 Internal Server Error: /detail/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 44, in detail_article
+    article.count_views += 1
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'count_views'
+ERROR 2023-10-01 20:27:16,686 basehttp 7048 2640 "GET /detail/1 HTTP/1.1" 500 68843
+ERROR 2023-10-01 20:27:16,774 log 7048 14832 Internal Server Error: /detail/1
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py", line 44, in detail_article
+    article.count_views += 1
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'count_views'
+ERROR 2023-10-01 20:27:16,776 basehttp 7048 14832 "GET /detail/1 HTTP/1.1" 500 67738
+INFO 2023-10-01 20:28:35,295 autoreload 7048 2416 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\views.py changed, reloading.
+INFO 2023-10-01 20:28:35,719 autoreload 16692 5056 Watching for file changes with StatReloader
+INFO 2023-10-01 20:28:48,693 basehttp 16692 8476 "GET /detail/1 HTTP/1.1" 200 167
+INFO 2023-10-01 20:28:48,900 basehttp 16692 17208 "GET /detail/1 HTTP/1.1" 200 167
+INFO 2023-10-01 20:28:51,031 basehttp 16692 8476 "GET /detail/1 HTTP/1.1" 200 167
+INFO 2023-10-01 20:28:51,212 basehttp 16692 17208 "GET /detail/1 HTTP/1.1" 200 167
+INFO 2023-10-01 20:28:54,051 basehttp 16692 8476 "GET /detail/1 HTTP/1.1" 200 167
+INFO 2023-10-01 20:28:54,229 basehttp 16692 17208 "GET /detail/1 HTTP/1.1" 200 167
+INFO 2023-10-01 20:31:01,128 autoreload 16692 5056 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:31:01,546 autoreload 15912 11192 Watching for file changes with StatReloader
+INFO 2023-10-01 20:31:54,129 autoreload 15912 11192 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:31:54,549 autoreload 17344 8732 Watching for file changes with StatReloader
+INFO 2023-10-01 20:32:04,949 autoreload 17344 8732 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:32:05,338 autoreload 7516 16176 Watching for file changes with StatReloader
+INFO 2023-10-01 20:32:17,754 autoreload 7516 16176 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:32:18,132 autoreload 19188 2880 Watching for file changes with StatReloader
+INFO 2023-10-01 20:32:31,565 autoreload 19188 2880 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:32:31,926 autoreload 18516 17724 Watching for file changes with StatReloader
+INFO 2023-10-01 20:32:48,461 autoreload 18516 17724 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:32:48,837 autoreload 13616 1256 Watching for file changes with StatReloader
+INFO 2023-10-01 20:32:58,229 autoreload 13616 1256 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:32:58,575 autoreload 19232 11388 Watching for file changes with StatReloader
+INFO 2023-10-01 20:33:02,856 autoreload 19232 11388 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:33:03,259 autoreload 17624 5224 Watching for file changes with StatReloader
+INFO 2023-10-01 20:33:05,532 autoreload 17624 5224 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:33:05,881 autoreload 10392 11160 Watching for file changes with StatReloader
+INFO 2023-10-01 20:33:09,171 autoreload 10392 11160 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:33:09,560 autoreload 3316 21008 Watching for file changes with StatReloader
+INFO 2023-10-01 20:33:30,129 autoreload 3316 21008 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:33:30,525 autoreload 8660 13936 Watching for file changes with StatReloader
+INFO 2023-10-01 20:33:39,890 autoreload 8660 13936 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:33:40,255 autoreload 19612 17024 Watching for file changes with StatReloader
+INFO 2023-10-01 20:33:49,613 autoreload 19612 17024 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:33:49,993 autoreload 19208 8752 Watching for file changes with StatReloader
+INFO 2023-10-01 20:34:08,561 autoreload 19208 8752 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:34:08,935 autoreload 6684 18312 Watching for file changes with StatReloader
+INFO 2023-10-01 20:34:20,343 autoreload 6684 18312 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:34:20,723 autoreload 3708 5008 Watching for file changes with StatReloader
+INFO 2023-10-01 20:34:26,029 autoreload 3708 5008 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:34:26,381 autoreload 15372 4892 Watching for file changes with StatReloader
+INFO 2023-10-01 20:34:44,960 autoreload 15372 4892 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-01 20:34:45,347 autoreload 17332 13208 Watching for file changes with StatReloader
+INFO 2023-10-01 21:00:19,696 autoreload 12500 21024 Watching for file changes with StatReloader
+INFO 2023-10-01 21:00:21,525 basehttp 12500 15496 "GET /detail/1 HTTP/1.1" 200 236
+INFO 2023-10-01 21:00:21,620 basehttp 12500 4164 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:00:21,860 basehttp 12500 21104 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:00:21,953 basehttp 12500 11592 "GET /detail/1 HTTP/1.1" 200 236
+INFO 2023-10-01 21:00:31,693 basehttp 12500 4164 "GET /articles/1 HTTP/1.1" 200 1403
+INFO 2023-10-01 21:00:31,745 basehttp 12500 11592 "GET /articles/1 HTTP/1.1" 200 1403
+INFO 2023-10-01 21:00:33,845 basehttp 12500 4164 "GET /detail/1 HTTP/1.1" 200 236
+INFO 2023-10-01 21:00:34,055 basehttp 12500 11592 "GET /detail/1 HTTP/1.1" 200 237
+INFO 2023-10-01 21:01:42,076 autoreload 3036 19244 Watching for file changes with StatReloader
+INFO 2023-10-01 21:01:43,163 basehttp 3036 12020 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:01:43,293 basehttp 3036 18848 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:01:46,984 basehttp 3036 12020 "GET /detail/1 HTTP/1.1" 200 237
+INFO 2023-10-01 21:01:48,185 basehttp 3036 18848 "GET /detail/1 HTTP/1.1" 200 237
+INFO 2023-10-01 21:02:17,995 autoreload 13008 9420 Watching for file changes with StatReloader
+INFO 2023-10-01 21:02:19,552 basehttp 13008 4416 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:02:19,676 basehttp 13008 15856 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:02:22,570 basehttp 13008 4416 "GET /detail/1 HTTP/1.1" 200 237
+INFO 2023-10-01 21:02:23,361 basehttp 13008 15856 "GET /detail/1 HTTP/1.1" 200 237
+INFO 2023-10-01 21:02:32,988 basehttp 13008 4416 "GET /detail/1 HTTP/1.1" 200 237
+INFO 2023-10-01 21:02:33,895 basehttp 13008 15856 "GET /detail/1 HTTP/1.1" 200 237
+INFO 2023-10-01 21:02:42,813 basehttp 13008 4416 "GET /detail/2 HTTP/1.1" 200 238
+INFO 2023-10-01 21:02:43,126 basehttp 13008 15856 "GET /detail/2 HTTP/1.1" 200 238
+INFO 2023-10-01 21:02:46,078 basehttp 13008 4416 "GET /detail/2 HTTP/1.1" 200 238
+INFO 2023-10-01 21:02:46,849 basehttp 13008 15856 "GET /detail/2 HTTP/1.1" 200 238
+INFO 2023-10-01 21:02:51,126 basehttp 13008 4416 "GET /detail/3 HTTP/1.1" 200 237
+INFO 2023-10-01 21:02:51,456 basehttp 13008 15856 "GET /detail/3 HTTP/1.1" 200 237
+INFO 2023-10-01 21:02:53,251 basehttp 13008 4416 "GET /detail/3 HTTP/1.1" 200 237
+INFO 2023-10-01 21:02:54,448 basehttp 13008 15856 "GET /detail/3 HTTP/1.1" 200 237
+INFO 2023-10-01 21:04:47,022 autoreload 18888 776 Watching for file changes with StatReloader
+INFO 2023-10-01 21:04:48,189 basehttp 18888 9380 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:04:48,336 basehttp 18888 5296 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:04:55,347 basehttp 18888 9380 "GET /articles/1 HTTP/1.1" 200 1403
+INFO 2023-10-01 21:04:55,397 basehttp 18888 5296 "GET /articles/1 HTTP/1.1" 200 1403
+INFO 2023-10-01 21:04:58,535 basehttp 18888 9380 "GET /detail/1 HTTP/1.1" 200 342
+INFO 2023-10-01 21:04:58,805 basehttp 18888 5296 "GET /detail/1 HTTP/1.1" 200 342
+INFO 2023-10-01 21:05:08,057 basehttp 18888 9380 "GET /detail/2 HTTP/1.1" 200 238
+INFO 2023-10-01 21:05:09,519 basehttp 18888 5296 "GET /detail/2 HTTP/1.1" 200 238
+INFO 2023-10-01 21:05:11,483 basehttp 18888 9380 "GET /detail/2 HTTP/1.1" 200 238
+INFO 2023-10-01 21:05:11,571 basehttp 18888 5296 "GET /detail/2 HTTP/1.1" 200 238
+INFO 2023-10-01 21:06:33,437 autoreload 3540 17784 Watching for file changes with StatReloader
+INFO 2023-10-01 21:06:34,952 basehttp 3540 8404 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:06:35,080 basehttp 3540 10844 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:06:37,143 basehttp 3540 8404 "GET /detail/2 HTTP/1.1" 200 238
+INFO 2023-10-01 21:06:37,331 basehttp 3540 10844 "GET /detail/2 HTTP/1.1" 200 239
+INFO 2023-10-01 21:06:40,651 basehttp 3540 8404 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:06:40,923 basehttp 3540 10844 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:07:20,297 basehttp 3540 8404 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:07:20,495 basehttp 3540 10844 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:07:25,004 basehttp 3540 8404 "GET /detail/2 HTTP/1.1" 200 239
+INFO 2023-10-01 21:07:26,402 basehttp 3540 10844 "GET /detail/2 HTTP/1.1" 200 239
+INFO 2023-10-01 21:07:29,879 basehttp 3540 8404 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:07:31,270 basehttp 3540 10844 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:07:33,294 basehttp 3540 10844 "GET /detail/2 HTTP/1.1" 200 239
+INFO 2023-10-01 21:07:33,871 basehttp 3540 10844 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:07:35,548 basehttp 3540 10844 "GET /detail/2 HTTP/1.1" 200 239
+INFO 2023-10-01 21:07:36,724 basehttp 3540 9660 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:07:36,776 basehttp 3540 19436 "GET /articles/1 HTTP/1.1" 200 1403
+INFO 2023-10-01 21:07:40,549 basehttp 3540 8404 "GET /detail/3 HTTP/1.1" 200 237
+INFO 2023-10-01 21:07:41,999 basehttp 3540 19436 "GET /detail/3 HTTP/1.1" 200 237
+INFO 2023-10-01 21:07:51,310 basehttp 3540 8404 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:07:52,708 basehttp 3540 19436 "GET /detail/1 HTTP/1.1" 200 336
+INFO 2023-10-01 21:58:22,456 autoreload 21160 12884 Watching for file changes with StatReloader
+INFO 2023-10-01 21:58:25,383 basehttp 21160 13208 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:58:25,615 basehttp 21160 19164 "GET / HTTP/1.1" 200 12
+INFO 2023-10-01 21:58:44,347 basehttp 21160 3276 "GET /user/2 HTTP/1.1" 301 0
+INFO 2023-10-01 21:58:44,363 basehttp 21160 8420 "GET /user/2/ HTTP/1.1" 200 664
+INFO 2023-10-01 21:58:44,440 basehttp 21160 3216 "GET /user/2/ HTTP/1.1" 200 664
+WARNING 2023-10-01 21:59:12,454 log 21160 8600 Not Found: /user_sorted/2/
+WARNING 2023-10-01 21:59:12,454 basehttp 21160 8600 "GET /user_sorted/2/ HTTP/1.1" 404 4655
+WARNING 2023-10-01 21:59:12,593 log 21160 2008 Not Found: /user_sorted/2/
+WARNING 2023-10-01 21:59:12,594 basehttp 21160 2008 "GET /user_sorted/2/ HTTP/1.1" 404 4655
+INFO 2023-10-01 21:59:27,840 basehttp 21160 4848 "GET /user_sorted/2/365 HTTP/1.1" 301 0
+INFO 2023-10-01 21:59:27,856 basehttp 21160 292 "GET /user_sorted/2/365/ HTTP/1.1" 200 594
+INFO 2023-10-01 21:59:27,909 basehttp 21160 16692 "GET /user_sorted/2/365/ HTTP/1.1" 200 594
+INFO 2023-10-01 21:59:37,152 basehttp 21160 13080 "GET /user_sorted/2/7/ HTTP/1.1" 200 590
+INFO 2023-10-01 21:59:37,206 basehttp 21160 15056 "GET /user_sorted/2/7/ HTTP/1.1" 200 590
+INFO 2023-10-01 21:59:47,721 basehttp 21160 7108 "GET /user_sorted/2/30/ HTTP/1.1" 200 592
+INFO 2023-10-01 21:59:47,774 basehttp 21160 12916 "GET /user_sorted/2/30/ HTTP/1.1" 200 592
+INFO 2023-10-01 21:59:52,703 basehttp 21160 7108 "GET /user_sorted/2/365/ HTTP/1.1" 200 594
+INFO 2023-10-01 21:59:52,752 basehttp 21160 12916 "GET /user_sorted/2/365/ HTTP/1.1" 200 594

@@ -1,0 +1,13 @@
+{% extends 'myapp3/base.html' %}
+
+{% block title %}Main page{% endblock %}
+
+{% block content %}
+    <p>Это главная страница</p>
+    <h1>Приветствую на моем сайте</h1>
+    <h2>{{ text }}</h2>
+    <h2>{{ text_2 }}</h2>
+    {% for item in result %}
+        <p>{{ item }}</p>
+    {% endfor %}
+{% endblock %}

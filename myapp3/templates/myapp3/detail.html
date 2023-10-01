@@ -1,0 +1,16 @@
+{% extends 'myapp3/base.html' %}
+
+{% block title %}Detail page{% endblock %}
+
+{% block content %}
+    <p>{{ article.description }}</p>
+    <p>{{ article.count_views }}</p>
+    {% if comments %}
+        {% for comment in comments %}
+            <p>{{ comment.description }}</p>
+            {% if comment.create_at != comment.change_at %}
+                <p>Изменено</p>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endblock %}

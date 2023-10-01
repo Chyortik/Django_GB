@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'homework_1',
     'myapp2',
     'homework_2',
+    'myapp3',
+    'homework_3',
 ]
 
 MIDDLEWARE = [
@@ -171,6 +173,16 @@ LOGGING = {
             'propagate': True,
         },
         'homework_2': {
+            'handlers': ['console', 'file'],
+            'level': 'INFO',
+            'propagate': True,
+        },
+        'myapp3': {
+            'handlers': ['console', 'file'],
+            'level': 'INFO',
+            'propagate': True,
+        },
+        'homework_3': {
             'handlers': ['console', 'file'],
             'level': 'INFO',
             'propagate': True,

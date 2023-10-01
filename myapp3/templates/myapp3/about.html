@@ -1,0 +1,20 @@
+{% extends 'myapp3/base.html' %}
+
+{% block title %}About page{% endblock %}
+
+{% block content %}
+    <p>Это главная страница</p>
+    <h1>{{ text }}</h1>
+    <h5>Доработаем задачи из прошлого семинара по созданию моделей автора, статьи и комментария.
+Создайте шаблон для вывода всех статей автора в виде списка заголовков.
+Если статья опубликована, заголовок должен быть ссылкой на статью.
+Если не опубликована, без ссылки.
+Не забываем про код представления с запросом к базе данных и маршруты.</h5>
+    {% for article in articles %}
+        {% if article.is_published %}
+           <p><a href="{% url 'detail_article' article.id %}">{{ article.title }}</a></p>
+        {% else %}
+            <p>{{ article.title }}</p>
+        {% endif %}
+    {% endfor %}
+{% endblock %}

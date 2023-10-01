@@ -2,18 +2,29 @@ import random
 
 from django.http import HttpResponse
 import logging
+
+from django.shortcuts import render
+
 from myapp2.models import Coin
 
 logger = logging.getLogger(__name__)
 
 
-def eagle(request):
+def eagle(request, count: int):
     game_list = ['орёл', 'решка']
-    response = random.choice(game_list)
-    coin = Coin(is_eagle=response)
-    coin.save()
-    logger.info(f'Выпала сторона: {coin}')
-    return HttpResponse(coin)
+    # response = random.choice(game_list)
+    # coin = Coin(is_eagle=response)
+    # coin.save()
+    # logger.info(f'Выпала сторона: {coin}')
+    # return HttpResponse(coin)
+    result = []
+    for i in range(count):
+        response = random.choice(game_list)
+        result.append(response)
+    context = {
+        'result': result
+    }
+    return render(request, 'myapp3/index.html', context=context)
 
 
 def show_elements(request, n: int):

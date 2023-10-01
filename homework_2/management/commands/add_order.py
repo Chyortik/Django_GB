@@ -23,11 +23,3 @@ class Command(BaseCommand):
             order.total_price = total_price
             order.save()
             order.products.add(product)
-
-            # product = Product.objects.filter(pk=Product_id).first()
-
-        # if user is not None:
-
-        # order = Order(customer=user, total_price=float(product.price))
-        # order.save()
-        # order.products.add(product)
