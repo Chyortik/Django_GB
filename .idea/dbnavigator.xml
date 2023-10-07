@@ -38,20 +38,32 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files />
+    <open-files>
+      <object connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" object-ref="schemas/db/tables/homework_4_product" />
+    </open-files>
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
-    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_order" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_3_product" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp3_article" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_order_products" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_product" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_article" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_client" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.sqlite_sequence" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_orders" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_4_product" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_user" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_order" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp4_author" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_3_order_products" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_coin" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_3_order" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_3_user" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp3_author" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_orders_products" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_author" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_orders" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp3_comment" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_autor" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_user" active-filter-id="EMPTY_FILTER" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
@@ -117,6 +129,13 @@
           <max-connection-pool-size value="7" />
           <alternative-statement-delimiter value="" />
         </details>
+        <debugger>
+          <compile-dependencies value="true" />
+          <tcp-driver-tunneling value="false" />
+          <tcp-host-address value="" />
+          <tcp-port-from value="4000" />
+          <tcp-port-to value="4999" />
+        </debugger>
         <object-filters hide-empty-schemas="false" hide-pseudo-columns="false">
           <object-type-filter>
             <object-type name="SCHEMA" enabled="true" />
@@ -495,7 +514,6 @@
       </compiler>
       <debugger>
         <debugger-type value="JDBC" />
-        <use-generic-runners value="true" />
       </debugger>
     </operation-settings>
     <ddl-file-settings>

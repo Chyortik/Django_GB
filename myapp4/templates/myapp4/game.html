@@ -1,0 +1,16 @@
+{% extends 'myapp4/base.html' %}
+
+{% block title %}
+    {{ title }}
+{% endblock %}
+
+{% block content %}
+    <p>Это главная страница</p>
+    <h1>Приветствую на моем сайте</h1>
+    <form action="" method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="play">
+    </form>
+
+{% endblock %}

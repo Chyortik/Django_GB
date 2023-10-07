@@ -1187,3 +1187,1035 @@ INFO 2023-10-01 21:59:47,721 basehttp 21160 7108 "GET /user_sorted/2/30/ HTTP/1.
 INFO 2023-10-01 21:59:47,774 basehttp 21160 12916 "GET /user_sorted/2/30/ HTTP/1.1" 200 592
 INFO 2023-10-01 21:59:52,703 basehttp 21160 7108 "GET /user_sorted/2/365/ HTTP/1.1" 200 594
 INFO 2023-10-01 21:59:52,752 basehttp 21160 12916 "GET /user_sorted/2/365/ HTTP/1.1" 200 594
+INFO 2023-10-07 10:34:54,825 autoreload 12352 10620 Watching for file changes with StatReloader
+INFO 2023-10-07 10:36:33,656 autoreload 12352 10620 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 10:36:33,959 autoreload 14384 14500 Watching for file changes with StatReloader
+INFO 2023-10-07 10:36:38,171 autoreload 17824 20612 Watching for file changes with StatReloader
+INFO 2023-10-07 10:37:12,915 autoreload 17824 20612 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 10:37:13,212 autoreload 19420 14364 Watching for file changes with StatReloader
+INFO 2023-10-07 10:37:17,194 autoreload 7860 12960 Watching for file changes with StatReloader
+INFO 2023-10-07 10:40:31,987 autoreload 7832 10960 Watching for file changes with StatReloader
+INFO 2023-10-07 10:45:03,808 autoreload 17380 20548 Watching for file changes with StatReloader
+INFO 2023-10-07 10:46:00,111 autoreload 11648 16784 Watching for file changes with StatReloader
+INFO 2023-10-07 10:52:48,129 autoreload 17932 20508 Watching for file changes with StatReloader
+INFO 2023-10-07 10:57:34,749 autoreload 1152 20812 Watching for file changes with StatReloader
+INFO 2023-10-07 10:59:16,778 autoreload 23444 16444 Watching for file changes with StatReloader
+INFO 2023-10-07 11:01:44,255 autoreload 23444 16444 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 11:01:44,569 autoreload 20448 15876 Watching for file changes with StatReloader
+INFO 2023-10-07 11:01:53,927 autoreload 20448 15876 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 11:01:54,240 autoreload 6472 18260 Watching for file changes with StatReloader
+INFO 2023-10-07 11:10:12,463 autoreload 21724 18088 Watching for file changes with StatReloader
+INFO 2023-10-07 11:11:16,745 autoreload 6576 18284 Watching for file changes with StatReloader
+INFO 2023-10-07 11:13:12,098 autoreload 6576 18284 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\models.py changed, reloading.
+INFO 2023-10-07 11:13:27,604 autoreload 20060 14104 Watching for file changes with StatReloader
+INFO 2023-10-07 11:16:59,849 autoreload 20060 14104 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 11:17:00,201 autoreload 10600 11832 Watching for file changes with StatReloader
+INFO 2023-10-07 11:17:11,568 autoreload 10600 11832 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 11:17:11,970 autoreload 21540 23104 Watching for file changes with StatReloader
+INFO 2023-10-07 11:18:19,380 autoreload 12384 13184 Watching for file changes with StatReloader
+INFO 2023-10-07 11:19:20,795 autoreload 12384 13184 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 11:19:48,453 autoreload 3612 1096 Watching for file changes with StatReloader
+INFO 2023-10-07 11:20:40,572 autoreload 3612 1096 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 11:20:40,919 autoreload 12952 18056 Watching for file changes with StatReloader
+INFO 2023-10-07 11:21:48,140 autoreload 12952 18056 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 11:21:48,500 autoreload 1576 12732 Watching for file changes with StatReloader
+INFO 2023-10-07 11:22:31,384 autoreload 1576 12732 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-07 11:22:31,713 autoreload 19548 23392 Watching for file changes with StatReloader
+INFO 2023-10-07 11:22:54,271 autoreload 19548 23392 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\apps.py changed, reloading.
+INFO 2023-10-07 11:22:54,620 autoreload 22664 2428 Watching for file changes with StatReloader
+INFO 2023-10-07 11:23:01,648 autoreload 2520 20032 Watching for file changes with StatReloader
+INFO 2023-10-07 11:25:32,632 autoreload 2520 20032 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py changed, reloading.
+INFO 2023-10-07 11:25:33,032 autoreload 15768 8520 Watching for file changes with StatReloader
+INFO 2023-10-07 11:26:02,835 autoreload 15768 8520 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py changed, reloading.
+INFO 2023-10-07 11:26:04,208 autoreload 16488 17544 Watching for file changes with StatReloader
+INFO 2023-10-07 11:29:48,680 autoreload 16488 17544 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp3\models.py changed, reloading.
+INFO 2023-10-07 11:29:49,050 autoreload 19504 5828 Watching for file changes with StatReloader
+INFO 2023-10-07 11:30:23,034 autoreload 14872 14364 Watching for file changes with StatReloader
+INFO 2023-10-07 11:31:59,558 autoreload 13580 1044 Watching for file changes with StatReloader
+INFO 2023-10-07 11:32:03,631 basehttp 13580 6788 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 11:32:03,868 basehttp 13580 21732 "GET / HTTP/1.1" 200 12
+WARNING 2023-10-07 11:32:03,885 log 13580 6788 Not Found: /favicon.ico
+WARNING 2023-10-07 11:32:03,886 basehttp 13580 6788 "GET /favicon.ico HTTP/1.1" 404 4646
+WARNING 2023-10-07 11:32:11,498 log 13580 18388 Not Found: /eagle/
+WARNING 2023-10-07 11:32:11,499 basehttp 13580 18388 "GET /eagle/ HTTP/1.1" 404 4631
+WARNING 2023-10-07 11:32:11,560 log 13580 17712 Not Found: /eagle/
+WARNING 2023-10-07 11:32:11,561 basehttp 13580 17712 "GET /eagle/ HTTP/1.1" 404 4631
+INFO 2023-10-07 11:32:14,655 basehttp 13580 18388 "GET /eagle/2 HTTP/1.1" 200 332
+INFO 2023-10-07 11:32:14,705 basehttp 13580 17712 "GET /eagle/2 HTTP/1.1" 200 332
+INFO 2023-10-07 11:37:30,839 autoreload 9644 17416 Watching for file changes with StatReloader
+INFO 2023-10-07 11:37:32,941 basehttp 9644 17188 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 11:37:33,280 basehttp 9644 9172 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 11:38:04,057 autoreload 9644 17416 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\urls.py changed, reloading.
+INFO 2023-10-07 11:38:04,488 autoreload 19340 11864 Watching for file changes with StatReloader
+INFO 2023-10-07 11:38:11,131 basehttp 19340 14788 "GET /eagle/2 HTTP/1.1" 200 332
+INFO 2023-10-07 11:38:11,188 basehttp 19340 3740 "GET /eagle/2 HTTP/1.1" 200 334
+INFO 2023-10-07 11:38:17,355 basehttp 19340 14788 "GET /eagle4/2 HTTP/1.1" 200 330
+INFO 2023-10-07 11:38:17,408 basehttp 19340 3740 "GET /eagle4/2 HTTP/1.1" 200 332
+INFO 2023-10-07 11:38:21,630 basehttp 19340 8440 "GET /eagle4/5 HTTP/1.1" 200 419
+INFO 2023-10-07 11:38:21,689 basehttp 19340 6928 "GET /eagle4/5 HTTP/1.1" 200 421
+INFO 2023-10-07 11:58:50,453 autoreload 19340 11864 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 11:58:51,692 autoreload 1472 17604 Watching for file changes with StatReloader
+INFO 2023-10-07 12:04:38,880 basehttp 1472 10104 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 12:04:39,110 basehttp 1472 3664 "GET / HTTP/1.1" 200 12
+ERROR 2023-10-07 12:04:42,699 log 1472 10104 Internal Server Error: /eagle4/5
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py", line 27, in eagle
+    return render(request, 'myapp4/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\defaulttags.py", line 226, in render
+    raise ValueError(
+ValueError: Need 2 values to unpack in for loop; got 4. 
+ERROR 2023-10-07 12:04:42,710 basehttp 1472 10104 "GET /eagle4/5 HTTP/1.1" 500 155880
+ERROR 2023-10-07 12:04:43,251 log 1472 3664 Internal Server Error: /eagle4/5
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py", line 27, in eagle
+    return render(request, 'myapp4/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\defaulttags.py", line 226, in render
+    raise ValueError(
+ValueError: Need 2 values to unpack in for loop; got 5. 
+ERROR 2023-10-07 12:04:43,257 basehttp 1472 3664 "GET /eagle4/5 HTTP/1.1" 500 154885
+INFO 2023-10-07 12:04:53,977 basehttp 1472 15980 "GET /eagle/2 HTTP/1.1" 200 330
+INFO 2023-10-07 12:04:54,039 basehttp 1472 8224 "GET /eagle/2 HTTP/1.1" 200 330
+ERROR 2023-10-07 12:04:59,521 log 1472 4200 Internal Server Error: /eagle4/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py", line 27, in eagle
+    return render(request, 'myapp4/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\defaulttags.py", line 226, in render
+    raise ValueError(
+ValueError: Need 2 values to unpack in for loop; got 5. 
+ERROR 2023-10-07 12:04:59,524 basehttp 1472 4200 "GET /eagle4/2 HTTP/1.1" 500 154401
+ERROR 2023-10-07 12:04:59,688 log 1472 15248 Internal Server Error: /eagle4/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py", line 27, in eagle
+    return render(request, 'myapp4/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\defaulttags.py", line 226, in render
+    raise ValueError(
+ValueError: Need 2 values to unpack in for loop; got 4. 
+ERROR 2023-10-07 12:04:59,693 basehttp 1472 15248 "GET /eagle4/2 HTTP/1.1" 500 153457
+INFO 2023-10-07 12:06:24,080 basehttp 1472 15388 "GET /eagle4/2 HTTP/1.1" 200 306
+INFO 2023-10-07 12:06:24,137 basehttp 1472 17776 "GET /eagle4/2 HTTP/1.1" 200 306
+INFO 2023-10-07 12:06:40,138 basehttp 1472 3128 "GET /eagle4/4 HTTP/1.1" 200 364
+INFO 2023-10-07 12:06:40,188 basehttp 1472 21608 "GET /eagle4/4 HTTP/1.1" 200 362
+INFO 2023-10-07 12:07:39,385 autoreload 1472 17604 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:07:39,801 autoreload 22624 9572 Watching for file changes with StatReloader
+INFO 2023-10-07 12:09:39,744 autoreload 22624 9572 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:09:40,193 autoreload 14784 6048 Watching for file changes with StatReloader
+INFO 2023-10-07 12:09:43,395 autoreload 14784 6048 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:09:43,762 autoreload 20476 13332 Watching for file changes with StatReloader
+INFO 2023-10-07 12:09:50,029 autoreload 20476 13332 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:09:50,490 autoreload 9112 22332 Watching for file changes with StatReloader
+INFO 2023-10-07 12:09:59,845 autoreload 9112 22332 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:10:00,296 autoreload 22808 9644 Watching for file changes with StatReloader
+INFO 2023-10-07 12:11:17,256 autoreload 22808 9644 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:11:17,725 autoreload 11104 4916 Watching for file changes with StatReloader
+INFO 2023-10-07 12:11:44,400 autoreload 11104 4916 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:11:44,855 autoreload 17992 768 Watching for file changes with StatReloader
+INFO 2023-10-07 12:12:03,366 autoreload 17992 768 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:12:03,854 autoreload 21728 16556 Watching for file changes with StatReloader
+INFO 2023-10-07 12:12:10,122 autoreload 21728 16556 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:12:10,528 autoreload 12844 692 Watching for file changes with StatReloader
+INFO 2023-10-07 12:12:16,832 autoreload 12844 692 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:12:17,253 autoreload 3972 2096 Watching for file changes with StatReloader
+INFO 2023-10-07 12:12:32,717 autoreload 3972 2096 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:12:33,130 autoreload 9812 1564 Watching for file changes with StatReloader
+INFO 2023-10-07 12:12:40,434 autoreload 9812 1564 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:12:40,840 autoreload 21976 8072 Watching for file changes with StatReloader
+INFO 2023-10-07 12:13:08,539 autoreload 21976 8072 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:13:08,931 autoreload 9816 7484 Watching for file changes with StatReloader
+INFO 2023-10-07 12:13:15,190 autoreload 9816 7484 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:13:15,595 autoreload 14360 12140 Watching for file changes with StatReloader
+INFO 2023-10-07 12:13:51,441 autoreload 14360 12140 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:13:51,842 autoreload 12392 11604 Watching for file changes with StatReloader
+INFO 2023-10-07 12:14:10,378 autoreload 12392 11604 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:14:10,808 autoreload 21736 23376 Watching for file changes with StatReloader
+INFO 2023-10-07 12:14:22,187 autoreload 21736 23376 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:14:22,600 autoreload 21740 19572 Watching for file changes with StatReloader
+INFO 2023-10-07 12:14:33,984 autoreload 21740 19572 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:14:34,382 autoreload 312 11656 Watching for file changes with StatReloader
+INFO 2023-10-07 12:14:55,958 autoreload 312 11656 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:14:56,342 autoreload 8896 20844 Watching for file changes with StatReloader
+INFO 2023-10-07 12:15:28,110 autoreload 8896 20844 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:15:28,508 autoreload 18984 5012 Watching for file changes with StatReloader
+INFO 2023-10-07 12:15:34,800 autoreload 18984 5012 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:15:35,196 autoreload 18176 15284 Watching for file changes with StatReloader
+INFO 2023-10-07 12:15:39,417 autoreload 18176 15284 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:15:39,811 autoreload 11080 15128 Watching for file changes with StatReloader
+INFO 2023-10-07 12:16:00,363 autoreload 11080 15128 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:16:00,760 autoreload 7484 16048 Watching for file changes with StatReloader
+INFO 2023-10-07 12:16:15,198 autoreload 7484 16048 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:16:15,580 autoreload 5252 12276 Watching for file changes with StatReloader
+INFO 2023-10-07 12:16:46,330 autoreload 5252 12276 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:16:46,721 autoreload 15312 17124 Watching for file changes with StatReloader
+INFO 2023-10-07 12:16:57,075 autoreload 15312 17124 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:16:57,465 autoreload 21596 22220 Watching for file changes with StatReloader
+INFO 2023-10-07 12:17:07,800 autoreload 21596 22220 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:17:08,203 autoreload 8904 13184 Watching for file changes with StatReloader
+INFO 2023-10-07 12:17:20,610 autoreload 8904 13184 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:17:21,006 autoreload 1424 9752 Watching for file changes with StatReloader
+INFO 2023-10-07 12:18:10,128 autoreload 1424 9752 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:18:10,504 autoreload 17372 10928 Watching for file changes with StatReloader
+INFO 2023-10-07 12:18:21,854 autoreload 17372 10928 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:18:22,245 autoreload 17272 16316 Watching for file changes with StatReloader
+INFO 2023-10-07 12:18:36,669 autoreload 17272 16316 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:18:37,059 autoreload 19676 2492 Watching for file changes with StatReloader
+INFO 2023-10-07 12:18:52,528 autoreload 19676 2492 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:18:52,916 autoreload 12960 21524 Watching for file changes with StatReloader
+INFO 2023-10-07 12:19:10,423 autoreload 12960 21524 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:19:10,826 autoreload 15520 11392 Watching for file changes with StatReloader
+INFO 2023-10-07 12:19:18,096 autoreload 15520 11392 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:19:18,479 autoreload 6796 20816 Watching for file changes with StatReloader
+INFO 2023-10-07 12:19:23,883 autoreload 6796 20816 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:19:24,308 autoreload 19448 7956 Watching for file changes with StatReloader
+INFO 2023-10-07 12:19:31,577 autoreload 19448 7956 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:19:31,968 autoreload 6728 9664 Watching for file changes with StatReloader
+INFO 2023-10-07 12:19:59,648 autoreload 6728 9664 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:20:00,060 autoreload 15900 16040 Watching for file changes with StatReloader
+INFO 2023-10-07 12:20:21,468 autoreload 19668 1612 Watching for file changes with StatReloader
+INFO 2023-10-07 12:21:34,616 autoreload 7472 18556 Watching for file changes with StatReloader
+INFO 2023-10-07 12:21:36,294 basehttp 7472 4284 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 12:21:36,528 basehttp 7472 2188 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 12:21:42,619 basehttp 7472 4284 "GET /eagle/2 HTTP/1.1" 200 332
+INFO 2023-10-07 12:21:42,665 basehttp 7472 2188 "GET /eagle/2 HTTP/1.1" 200 330
+ERROR 2023-10-07 12:21:48,902 log 7472 5852 Internal Server Error: /eagle4/4
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:21:48,904 basehttp 7472 5852 "GET /eagle4/4 HTTP/1.1" 500 65374
+ERROR 2023-10-07 12:21:49,037 log 7472 12004 Internal Server Error: /eagle4/4
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:21:49,039 basehttp 7472 12004 "GET /eagle4/4 HTTP/1.1" 500 64430
+INFO 2023-10-07 12:22:25,553 autoreload 7472 18556 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:22:25,907 autoreload 5868 13536 Watching for file changes with StatReloader
+ERROR 2023-10-07 12:22:29,222 log 5868 8336 Internal Server Error: /eagle4/4
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:22:29,223 basehttp 5868 8336 "GET /eagle4/4 HTTP/1.1" 500 65511
+ERROR 2023-10-07 12:22:29,321 log 5868 8396 Internal Server Error: /eagle4/4
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:22:29,324 basehttp 5868 8396 "GET /eagle4/4 HTTP/1.1" 500 64430
+INFO 2023-10-07 12:23:10,494 autoreload 5868 13536 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:23:10,877 autoreload 20012 11620 Watching for file changes with StatReloader
+ERROR 2023-10-07 12:25:03,234 log 20012 4872 Internal Server Error: /eagle4/4
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:25:03,236 basehttp 20012 4872 "GET /eagle4/4 HTTP/1.1" 500 65511
+ERROR 2023-10-07 12:25:03,320 log 20012 4432 Internal Server Error: /eagle4/4
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:25:03,322 basehttp 20012 4432 "GET /eagle4/4 HTTP/1.1" 500 64430
+INFO 2023-10-07 12:25:38,944 autoreload 20012 11620 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:25:39,342 autoreload 17920 22012 Watching for file changes with StatReloader
+INFO 2023-10-07 12:25:41,256 basehttp 17920 22888 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 12:25:41,441 basehttp 17920 21448 "GET / HTTP/1.1" 200 12
+ERROR 2023-10-07 12:25:44,265 log 17920 22888 Internal Server Error: /eagle4/4
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:25:44,266 basehttp 17920 22888 "GET /eagle4/4 HTTP/1.1" 500 65511
+ERROR 2023-10-07 12:25:44,347 log 17920 21448 Internal Server Error: /eagle4/4
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:25:44,349 basehttp 17920 21448 "GET /eagle4/4 HTTP/1.1" 500 64430
+INFO 2023-10-07 12:25:51,843 basehttp 17920 22888 "GET /eagle/2 HTTP/1.1" 200 330
+INFO 2023-10-07 12:25:51,991 basehttp 17920 21448 "GET /eagle/2 HTTP/1.1" 200 332
+ERROR 2023-10-07 12:25:56,747 log 17920 22888 Internal Server Error: /eagle4/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:25:56,750 basehttp 17920 22888 "GET /eagle4/2 HTTP/1.1" 500 65374
+ERROR 2023-10-07 12:25:56,885 log 17920 21448 Internal Server Error: /eagle4/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: eagle() missing 1 required positional argument: 'HttpRequest'
+ERROR 2023-10-07 12:25:56,886 basehttp 17920 21448 "GET /eagle4/2 HTTP/1.1" 500 64430
+INFO 2023-10-07 12:28:00,619 autoreload 17920 22012 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:28:01,024 autoreload 168 22796 Watching for file changes with StatReloader
+INFO 2023-10-07 12:28:39,266 autoreload 168 22796 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:28:39,639 autoreload 17228 21872 Watching for file changes with StatReloader
+INFO 2023-10-07 12:28:46,083 autoreload 17228 21872 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:28:46,469 autoreload 9952 9752 Watching for file changes with StatReloader
+INFO 2023-10-07 12:29:54,224 autoreload 9952 9752 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:29:54,611 autoreload 12840 20176 Watching for file changes with StatReloader
+INFO 2023-10-07 12:30:06,165 autoreload 12840 20176 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:30:06,571 autoreload 19868 16960 Watching for file changes with StatReloader
+INFO 2023-10-07 12:30:11,970 autoreload 19868 16960 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:30:12,351 autoreload 13072 16468 Watching for file changes with StatReloader
+INFO 2023-10-07 12:30:25,946 autoreload 13072 16468 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:30:26,363 autoreload 7992 12896 Watching for file changes with StatReloader
+INFO 2023-10-07 12:30:33,592 basehttp 7992 5880 "GET /eagle4/2 HTTP/1.1" 200 412
+INFO 2023-10-07 12:30:33,652 basehttp 7992 20200 "GET /eagle4/2 HTTP/1.1" 200 416
+INFO 2023-10-07 12:30:37,609 basehttp 7992 5880 "GET /eagle4/4 HTTP/1.1" 200 560
+INFO 2023-10-07 12:30:37,657 basehttp 7992 20200 "GET /eagle4/4 HTTP/1.1" 200 562
+INFO 2023-10-07 12:30:49,292 basehttp 7992 5880 "GET /eagle4/4 HTTP/1.1" 200 562
+INFO 2023-10-07 12:30:49,339 basehttp 7992 20200 "GET /eagle4/4 HTTP/1.1" 200 564
+INFO 2023-10-07 12:31:16,882 autoreload 7992 12896 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:31:17,272 autoreload 18616 15792 Watching for file changes with StatReloader
+INFO 2023-10-07 12:32:50,227 autoreload 18616 15792 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 12:32:50,670 autoreload 9640 2792 Watching for file changes with StatReloader
+INFO 2023-10-07 12:47:37,445 autoreload 1408 15780 Watching for file changes with StatReloader
+INFO 2023-10-07 12:50:22,327 autoreload 18972 20476 Watching for file changes with StatReloader
+INFO 2023-10-07 12:50:23,971 basehttp 18972 17652 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 12:50:24,209 basehttp 18972 8860 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 12:50:31,504 basehttp 18972 17652 "GET /eagle4/4 HTTP/1.1" 200 566
+INFO 2023-10-07 12:50:31,661 basehttp 18972 8860 "GET /eagle4/4 HTTP/1.1" 200 562
+INFO 2023-10-07 12:51:18,512 autoreload 18972 20476 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\urls.py changed, reloading.
+INFO 2023-10-07 12:51:18,938 autoreload 4992 7912 Watching for file changes with StatReloader
+INFO 2023-10-07 12:51:35,436 autoreload 4992 7912 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\urls.py changed, reloading.
+INFO 2023-10-07 12:51:35,820 autoreload 21000 7112 Watching for file changes with StatReloader
+INFO 2023-10-07 12:52:23,983 autoreload 21000 7112 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\urls.py changed, reloading.
+INFO 2023-10-07 12:52:24,447 autoreload 10752 18100 Watching for file changes with StatReloader
+INFO 2023-10-07 12:53:10,484 basehttp 10752 19008 "GET /games HTTP/1.1" 301 0
+INFO 2023-10-07 12:53:10,517 basehttp 10752 23456 "GET /games/ HTTP/1.1" 200 268
+INFO 2023-10-07 12:53:10,722 basehttp 10752 8908 "GET /games/ HTTP/1.1" 200 268
+WARNING 2023-10-07 12:55:01,680 log 10752 5704 Not Found: /games/E
+WARNING 2023-10-07 12:55:01,680 basehttp 10752 5704 "GET /games/E HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:55:01,735 log 10752 21544 Not Found: /games/E
+WARNING 2023-10-07 12:55:01,736 basehttp 10752 21544 "GET /games/E HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:55:18,595 log 10752 5704 Not Found: /games/1
+WARNING 2023-10-07 12:55:18,596 basehttp 10752 5704 "GET /games/1 HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:55:18,652 log 10752 21544 Not Found: /games/1
+WARNING 2023-10-07 12:55:18,654 basehttp 10752 21544 "GET /games/1 HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:55:32,253 log 10752 5704 Not Found: /games/eagles
+WARNING 2023-10-07 12:55:32,253 basehttp 10752 5704 "GET /games/eagles HTTP/1.1" 404 5351
+WARNING 2023-10-07 12:55:32,311 log 10752 21544 Not Found: /games/eagles
+WARNING 2023-10-07 12:55:32,312 basehttp 10752 21544 "GET /games/eagles HTTP/1.1" 404 5351
+WARNING 2023-10-07 12:55:48,314 log 10752 5704 Not Found: /games/C
+WARNING 2023-10-07 12:55:48,315 basehttp 10752 5704 "GET /games/C HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:55:48,383 log 10752 21544 Not Found: /games/C
+WARNING 2023-10-07 12:55:48,384 basehttp 10752 21544 "GET /games/C HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:58:03,295 log 10752 11088 Not Found: /games/games
+WARNING 2023-10-07 12:58:03,295 basehttp 10752 11088 "GET /games/games HTTP/1.1" 404 5348
+WARNING 2023-10-07 12:58:03,363 log 10752 9992 Not Found: /games/games
+WARNING 2023-10-07 12:58:03,363 basehttp 10752 9992 "GET /games/games HTTP/1.1" 404 5348
+INFO 2023-10-07 12:58:38,858 basehttp 10752 20164 "GET /games/ HTTP/1.1" 200 242
+INFO 2023-10-07 12:58:38,929 basehttp 10752 3676 "GET /games/ HTTP/1.1" 200 242
+WARNING 2023-10-07 12:58:44,747 log 10752 20164 Not Found: /games/1
+WARNING 2023-10-07 12:58:44,747 basehttp 10752 20164 "GET /games/1 HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:58:44,808 log 10752 3676 Not Found: /games/1
+WARNING 2023-10-07 12:58:44,808 basehttp 10752 3676 "GET /games/1 HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:58:55,685 log 10752 20164 Not Found: /games/1
+WARNING 2023-10-07 12:58:55,685 basehttp 10752 20164 "GET /games/1 HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:58:55,733 log 10752 3676 Not Found: /games/1
+WARNING 2023-10-07 12:58:55,734 basehttp 10752 3676 "GET /games/1 HTTP/1.1" 404 5336
+INFO 2023-10-07 12:59:00,368 basehttp 10752 3676 "GET /games/ HTTP/1.1" 200 265
+WARNING 2023-10-07 12:59:12,532 log 10752 9376 Not Found: /games/E
+WARNING 2023-10-07 12:59:12,533 basehttp 10752 9376 "GET /games/E HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:59:12,588 log 10752 21136 Not Found: /games/E
+WARNING 2023-10-07 12:59:12,589 basehttp 10752 21136 "GET /games/E HTTP/1.1" 404 5336
+WARNING 2023-10-07 12:59:27,786 log 10752 9376 Not Found: /games/'E'
+WARNING 2023-10-07 12:59:27,787 basehttp 10752 9376 "GET /games/'E' HTTP/1.1" 404 5372
+WARNING 2023-10-07 12:59:27,850 log 10752 21136 Not Found: /games/'E'
+WARNING 2023-10-07 12:59:27,852 basehttp 10752 21136 "GET /games/'E' HTTP/1.1" 404 5372
+INFO 2023-10-07 12:59:35,693 basehttp 10752 9376 "GET /games/ HTTP/1.1" 200 265
+INFO 2023-10-07 12:59:35,741 basehttp 10752 21136 "GET /games/ HTTP/1.1" 200 265
+INFO 2023-10-07 13:00:00,355 autoreload 10752 18100 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\urls.py changed, reloading.
+INFO 2023-10-07 13:00:01,707 autoreload 18988 7872 Watching for file changes with StatReloader
+WARNING 2023-10-07 13:00:02,201 log 18988 9716 Not Found: /games/
+WARNING 2023-10-07 13:00:02,202 basehttp 18988 9716 "GET /games/ HTTP/1.1" 404 5327
+WARNING 2023-10-07 13:00:02,259 log 18988 5064 Not Found: /games/
+WARNING 2023-10-07 13:00:02,260 basehttp 18988 5064 "GET /games/ HTTP/1.1" 404 5327
+WARNING 2023-10-07 13:00:04,069 log 18988 5064 Not Found: /games/'E'
+WARNING 2023-10-07 13:00:04,069 basehttp 18988 5064 "GET /games/'E' HTTP/1.1" 404 5366
+WARNING 2023-10-07 13:00:04,588 log 18988 5064 Not Found: /games/E
+WARNING 2023-10-07 13:00:04,590 basehttp 18988 5064 "GET /games/E HTTP/1.1" 404 5330
+WARNING 2023-10-07 13:00:05,084 log 18988 5064 Not Found: /games/
+WARNING 2023-10-07 13:00:05,085 basehttp 18988 5064 "GET /games/ HTTP/1.1" 404 5327
+WARNING 2023-10-07 13:00:05,572 log 18988 5064 Not Found: /games/games
+WARNING 2023-10-07 13:00:05,574 basehttp 18988 5064 "GET /games/games HTTP/1.1" 404 5342
+WARNING 2023-10-07 13:00:06,091 log 18988 5064 Not Found: /games/C
+WARNING 2023-10-07 13:00:06,092 basehttp 18988 5064 "GET /games/C HTTP/1.1" 404 5330
+WARNING 2023-10-07 13:00:06,570 log 18988 5064 Not Found: /games/eagles
+WARNING 2023-10-07 13:00:06,571 basehttp 18988 5064 "GET /games/eagles HTTP/1.1" 404 5345
+WARNING 2023-10-07 13:00:07,030 log 18988 5064 Not Found: /games/1
+WARNING 2023-10-07 13:00:07,031 basehttp 18988 5064 "GET /games/1 HTTP/1.1" 404 5330
+WARNING 2023-10-07 13:00:07,539 log 18988 5064 Not Found: /games/E
+WARNING 2023-10-07 13:00:07,540 basehttp 18988 5064 "GET /games/E HTTP/1.1" 404 5330
+WARNING 2023-10-07 13:00:08,046 log 18988 5064 Not Found: /games/
+WARNING 2023-10-07 13:00:08,046 basehttp 18988 5064 "GET /games/ HTTP/1.1" 404 5327
+INFO 2023-10-07 13:00:08,530 basehttp 18988 14432 "GET /eagle4/4 HTTP/1.1" 200 574
+INFO 2023-10-07 13:00:08,702 basehttp 18988 14432 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 13:00:11,998 basehttp 18988 17240 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 13:00:12,049 basehttp 18988 14432 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 13:00:39,084 autoreload 18988 7872 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\urls.py changed, reloading.
+INFO 2023-10-07 13:00:39,501 autoreload 3756 2456 Watching for file changes with StatReloader
+INFO 2023-10-07 13:00:39,649 basehttp 3756 22940 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 13:00:39,688 basehttp 3756 23032 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 13:00:40,531 basehttp 3756 23032 "GET /eagle4/4 HTTP/1.1" 200 578
+INFO 2023-10-07 13:00:41,362 basehttp 3756 23032 "GET /games/ HTTP/1.1" 200 265
+INFO 2023-10-07 13:00:44,780 basehttp 3756 22940 "GET /games/ HTTP/1.1" 200 265
+INFO 2023-10-07 13:00:44,824 basehttp 3756 23032 "GET /games/ HTTP/1.1" 200 265
+WARNING 2023-10-07 13:01:01,609 log 3756 11172 Not Found: /games1
+WARNING 2023-10-07 13:01:01,610 basehttp 3756 11172 "GET /games1 HTTP/1.1" 404 5333
+WARNING 2023-10-07 13:01:01,669 log 3756 14024 Not Found: /games1
+WARNING 2023-10-07 13:01:01,671 basehttp 3756 14024 "GET /games1 HTTP/1.1" 404 5333
+INFO 2023-10-07 13:01:17,743 basehttp 3756 11172 "GET /cube4 HTTP/1.1" 301 0
+ERROR 2023-10-07 13:01:17,881 log 3756 16712 Internal Server Error: /cube4/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cube() missing 1 required positional argument: 'count'
+ERROR 2023-10-07 13:01:17,883 basehttp 3756 16712 "GET /cube4/ HTTP/1.1" 500 65305
+ERROR 2023-10-07 13:01:18,276 log 3756 14024 Internal Server Error: /cube4/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cube() missing 1 required positional argument: 'count'
+ERROR 2023-10-07 13:01:18,277 basehttp 3756 14024 "GET /cube4/ HTTP/1.1" 500 64361
+WARNING 2023-10-07 13:01:25,453 log 3756 16712 Not Found: /cube4/5
+WARNING 2023-10-07 13:01:25,453 basehttp 3756 16712 "GET /cube4/5 HTTP/1.1" 404 5336
+WARNING 2023-10-07 13:01:25,509 log 3756 14024 Not Found: /cube4/5
+WARNING 2023-10-07 13:01:25,509 basehttp 3756 14024 "GET /cube4/5 HTTP/1.1" 404 5336
+ERROR 2023-10-07 13:01:47,143 log 3756 16712 Internal Server Error: /cube4/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cube() missing 1 required positional argument: 'count'
+ERROR 2023-10-07 13:01:47,144 basehttp 3756 16712 "GET /cube4/ HTTP/1.1" 500 65305
+ERROR 2023-10-07 13:01:47,226 log 3756 14024 Internal Server Error: /cube4/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cube() missing 1 required positional argument: 'count'
+ERROR 2023-10-07 13:01:47,228 basehttp 3756 14024 "GET /cube4/ HTTP/1.1" 500 64361
+WARNING 2023-10-07 13:02:37,754 log 3756 16712 Not Found: /cube4/1
+WARNING 2023-10-07 13:02:37,755 basehttp 3756 16712 "GET /cube4/1 HTTP/1.1" 404 5336
+WARNING 2023-10-07 13:02:37,811 log 3756 14024 Not Found: /cube4/1
+WARNING 2023-10-07 13:02:37,812 basehttp 3756 14024 "GET /cube4/1 HTTP/1.1" 404 5336
+INFO 2023-10-07 13:05:29,790 basehttp 3756 5372 "GET /games/ HTTP/1.1" 200 265
+INFO 2023-10-07 13:05:29,893 basehttp 3756 16208 "GET /games/ HTTP/1.1" 200 265
+INFO 2023-10-07 13:06:19,921 autoreload 3756 2456 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 13:06:20,319 autoreload 7360 8876 Watching for file changes with StatReloader
+INFO 2023-10-07 13:06:22,702 basehttp 7360 14844 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 13:06:22,838 basehttp 7360 19484 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 13:06:28,501 basehttp 7360 14844 "GET /games/ HTTP/1.1" 200 686
+INFO 2023-10-07 13:06:28,566 basehttp 7360 19484 "GET /games/ HTTP/1.1" 200 686
+INFO 2023-10-07 13:08:17,308 basehttp 7360 2604 "GET /games/ HTTP/1.1" 200 729
+INFO 2023-10-07 13:08:17,370 basehttp 7360 18860 "GET /games/ HTTP/1.1" 200 729
+WARNING 2023-10-07 13:08:20,423 log 7360 2604 Forbidden (CSRF cookie not set.): /games/
+WARNING 2023-10-07 13:08:20,423 basehttp 7360 2604 "POST /games/ HTTP/1.1" 403 2870
+INFO 2023-10-07 13:08:20,476 basehttp 7360 18860 "GET /games/ HTTP/1.1" 200 729
+WARNING 2023-10-07 13:08:56,780 log 7360 10104 Forbidden (CSRF cookie not set.): /games/
+WARNING 2023-10-07 13:08:56,781 basehttp 7360 10104 "POST /games/ HTTP/1.1" 403 2870
+INFO 2023-10-07 13:08:56,833 basehttp 7360 20736 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:08:58,526 basehttp 7360 20736 "GET /games/ HTTP/1.1" 200 859
+WARNING 2023-10-07 13:08:59,708 log 7360 10104 Forbidden (CSRF token missing.): /games/
+WARNING 2023-10-07 13:08:59,708 basehttp 7360 10104 "POST /games/ HTTP/1.1" 403 2506
+INFO 2023-10-07 13:08:59,757 basehttp 7360 20736 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:09:06,366 basehttp 7360 10104 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:09:06,411 basehttp 7360 20736 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:13:30,306 autoreload 2512 12968 Watching for file changes with StatReloader
+INFO 2023-10-07 13:13:31,661 basehttp 2512 16268 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 13:13:31,799 basehttp 2512 11864 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 13:13:35,722 basehttp 2512 16268 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:13:35,782 basehttp 2512 11864 "GET /games/ HTTP/1.1" 200 859
+ERROR 2023-10-07 13:13:39,511 log 2512 16268 Internal Server Error: /games/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py", line 60, in game_choice
+    game = form.cleaned_data['games']
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: 'games'
+ERROR 2023-10-07 13:13:39,513 basehttp 2512 16268 "POST /games/ HTTP/1.1" 500 70580
+INFO 2023-10-07 13:13:39,566 basehttp 2512 11864 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:13:53,032 basehttp 2512 11864 "GET /games/ HTTP/1.1" 200 859
+ERROR 2023-10-07 13:13:58,153 log 2512 16268 Internal Server Error: /games/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py", line 60, in game_choice
+    game = form.cleaned_data['games']
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: 'games'
+ERROR 2023-10-07 13:13:58,155 basehttp 2512 16268 "POST /games/ HTTP/1.1" 500 70580
+INFO 2023-10-07 13:13:58,239 basehttp 2512 11864 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:14:56,273 autoreload 2512 12968 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 13:14:56,656 autoreload 5108 4508 Watching for file changes with StatReloader
+ERROR 2023-10-07 13:15:01,465 log 5108 2536 Internal Server Error: /games/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py", line 60, in game_choice
+    game = form.cleaned_data['games']
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: 'games'
+ERROR 2023-10-07 13:15:01,466 basehttp 5108 2536 "POST /games/ HTTP/1.1" 500 70580
+INFO 2023-10-07 13:15:01,550 basehttp 5108 19748 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:15:04,181 basehttp 5108 19748 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:15:42,263 autoreload 5108 4508 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 13:15:42,700 autoreload 21700 16256 Watching for file changes with StatReloader
+INFO 2023-10-07 13:15:44,673 basehttp 21700 9200 "POST /games/ HTTP/1.1" 200 481
+INFO 2023-10-07 13:15:44,744 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:15:46,386 basehttp 21700 9200 "POST /games/ HTTP/1.1" 200 980
+INFO 2023-10-07 13:15:46,432 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:15:49,983 basehttp 21700 9200 "POST /games/ HTTP/1.1" 200 483
+INFO 2023-10-07 13:15:50,036 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:15:54,864 basehttp 21700 9200 "POST /games/ HTTP/1.1" 200 980
+INFO 2023-10-07 13:15:54,917 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:15:59,091 basehttp 21700 9200 "POST /games/ HTTP/1.1" 200 481
+INFO 2023-10-07 13:15:59,137 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:16:03,637 basehttp 21700 9200 "POST /games/ HTTP/1.1" 200 980
+INFO 2023-10-07 13:16:03,682 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:16:18,557 basehttp 21700 9200 "POST /games/ HTTP/1.1" 200 982
+INFO 2023-10-07 13:16:18,612 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 861
+INFO 2023-10-07 13:16:21,397 basehttp 21700 9200 "GET /games/ HTTP/1.1" 200 861
+INFO 2023-10-07 13:16:21,445 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 861
+INFO 2023-10-07 13:16:24,210 basehttp 21700 9200 "POST /games/ HTTP/1.1" 200 485
+INFO 2023-10-07 13:16:24,258 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 861
+INFO 2023-10-07 13:16:26,348 basehttp 21700 9200 "POST /games/ HTTP/1.1" 200 982
+INFO 2023-10-07 13:16:26,398 basehttp 21700 22216 "GET /games/ HTTP/1.1" 200 861
+INFO 2023-10-07 13:17:32,707 autoreload 21700 16256 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 13:17:33,096 autoreload 23064 20692 Watching for file changes with StatReloader
+INFO 2023-10-07 13:18:00,023 autoreload 23064 20692 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 13:18:00,439 autoreload 1936 11748 Watching for file changes with StatReloader
+INFO 2023-10-07 13:18:06,596 basehttp 1936 7956 "POST /games/ HTTP/1.1" 200 485
+INFO 2023-10-07 13:18:06,657 basehttp 1936 2168 "GET /games/ HTTP/1.1" 200 861
+INFO 2023-10-07 13:18:23,973 basehttp 1936 7956 "POST /games/ HTTP/1.1" 200 980
+INFO 2023-10-07 13:18:24,032 basehttp 1936 2168 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:18:26,926 basehttp 1936 7956 "POST /games/ HTTP/1.1" 200 483
+INFO 2023-10-07 13:18:26,980 basehttp 1936 2168 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:18:35,442 basehttp 1936 7956 "POST /games/ HTTP/1.1" 200 980
+INFO 2023-10-07 13:18:35,492 basehttp 1936 2168 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:18:38,127 basehttp 1936 7956 "POST /games/ HTTP/1.1" 200 483
+INFO 2023-10-07 13:18:38,176 basehttp 1936 2168 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:22:00,990 autoreload 1936 11748 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 13:22:01,401 autoreload 13076 21776 Watching for file changes with StatReloader
+INFO 2023-10-07 13:22:03,849 basehttp 13076 12732 "POST /games/ HTTP/1.1" 200 980
+INFO 2023-10-07 13:22:03,957 basehttp 13076 13544 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:22:06,191 basehttp 13076 12732 "POST /games/ HTTP/1.1" 200 504
+INFO 2023-10-07 13:22:06,239 basehttp 13076 13544 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:24:52,491 autoreload 13076 21776 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\forms.py changed, reloading.
+INFO 2023-10-07 13:24:52,893 autoreload 12744 8580 Watching for file changes with StatReloader
+INFO 2023-10-07 13:25:38,300 autoreload 12744 8580 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 13:25:38,726 autoreload 20448 17228 Watching for file changes with StatReloader
+INFO 2023-10-07 13:25:43,787 basehttp 20448 11084 "POST /games/ HTTP/1.1" 200 502
+INFO 2023-10-07 13:25:43,893 basehttp 20448 17216 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:25:52,846 basehttp 20448 1300 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:25:52,898 basehttp 20448 6372 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:25:58,400 basehttp 20448 1300 "POST /games/ HTTP/1.1" 200 562
+INFO 2023-10-07 13:25:58,450 basehttp 20448 6372 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:26:03,015 basehttp 20448 1300 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:26:03,064 basehttp 20448 6372 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 13:26:06,345 basehttp 20448 1300 "POST /games/ HTTP/1.1" 200 546
+INFO 2023-10-07 13:26:06,392 basehttp 20448 6372 "GET /games/ HTTP/1.1" 200 859
+INFO 2023-10-07 15:13:41,191 autoreload 12528 3608 Watching for file changes with StatReloader
+INFO 2023-10-07 15:13:43,646 basehttp 12528 1720 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 15:13:43,905 basehttp 12528 13120 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 15:14:58,144 basehttp 12528 5380 "GET /add_author HTTP/1.1" 301 0
+INFO 2023-10-07 15:14:58,346 basehttp 12528 8228 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:14:58,525 basehttp 12528 8452 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:15:41,522 basehttp 12528 18068 "POST /add_author/ HTTP/1.1" 200 1357
+INFO 2023-10-07 15:15:41,583 basehttp 12528 19904 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:15:58,668 basehttp 12528 18068 "POST /add_author/ HTTP/1.1" 200 1357
+INFO 2023-10-07 15:15:58,722 basehttp 12528 19904 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:18:23,462 basehttp 12528 12088 "POST /add_author/ HTTP/1.1" 200 1357
+INFO 2023-10-07 15:18:23,534 basehttp 12528 21000 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:18:26,857 basehttp 12528 12088 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:18:26,904 basehttp 12528 21000 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:18:45,899 basehttp 12528 12088 "POST /add_author/ HTTP/1.1" 200 1358
+INFO 2023-10-07 15:18:45,952 basehttp 12528 21000 "GET /add_author/ HTTP/1.1" 200 1217
+ERROR 2023-10-07 15:19:00,023 log 12528 12088 Internal Server Error: /add_author/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: myapp4_author
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py", line 89, in add_author
+    author = Author.objects.create(**form.cleaned_data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: myapp4_author
+ERROR 2023-10-07 15:19:00,029 basehttp 12528 12088 "POST /add_author/ HTTP/1.1" 500 162859
+INFO 2023-10-07 15:19:00,113 basehttp 12528 21000 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:20:14,702 autoreload 22012 9876 Watching for file changes with StatReloader
+INFO 2023-10-07 15:20:18,801 basehttp 22012 18452 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:20:18,936 basehttp 22012 2704 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:20:20,143 basehttp 22012 18452 "POST /add_author/ HTTP/1.1" 200 1358
+INFO 2023-10-07 15:20:20,192 basehttp 22012 2704 "GET /add_author/ HTTP/1.1" 200 1217
+ERROR 2023-10-07 15:20:28,612 log 22012 18452 Internal Server Error: /add_author/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py", line 91, in add_author
+    return get_articles(request, author_pk=author.pk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_articles() got an unexpected keyword argument 'author_pk'
+ERROR 2023-10-07 15:20:28,613 basehttp 22012 18452 "POST /add_author/ HTTP/1.1" 500 71513
+INFO 2023-10-07 15:20:28,728 basehttp 22012 2704 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:21:20,033 autoreload 22012 9876 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:21:20,451 autoreload 2592 20620 Watching for file changes with StatReloader
+INFO 2023-10-07 15:21:20,706 basehttp 2592 4932 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:21:22,671 basehttp 2592 1576 "POST /add_author/ HTTP/1.1" 200 820
+INFO 2023-10-07 15:21:22,720 basehttp 2592 4932 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:23:49,344 autoreload 2592 20620 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:23:49,722 autoreload 19572 3744 Watching for file changes with StatReloader
+INFO 2023-10-07 15:23:55,009 basehttp 19572 13200 "POST /add_author/ HTTP/1.1" 200 138
+INFO 2023-10-07 15:23:55,071 basehttp 19572 12592 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:24:01,253 basehttp 19572 13200 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:24:01,300 basehttp 19572 12592 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:24:20,782 basehttp 19572 13200 "POST /add_author/ HTTP/1.1" 200 138
+INFO 2023-10-07 15:24:20,830 basehttp 19572 12592 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:25:38,791 autoreload 19572 3744 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\forms.py changed, reloading.
+INFO 2023-10-07 15:25:39,186 autoreload 8372 13108 Watching for file changes with StatReloader
+INFO 2023-10-07 15:30:38,300 autoreload 8372 13108 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\urls.py changed, reloading.
+INFO 2023-10-07 15:30:38,707 autoreload 12416 13016 Watching for file changes with StatReloader
+INFO 2023-10-07 15:34:17,590 autoreload 12416 13016 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\models.py changed, reloading.
+INFO 2023-10-07 15:34:17,973 autoreload 11392 15096 Watching for file changes with StatReloader
+INFO 2023-10-07 15:36:42,281 autoreload 11392 15096 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\models.py changed, reloading.
+INFO 2023-10-07 15:36:42,681 autoreload 3928 3240 Watching for file changes with StatReloader
+INFO 2023-10-07 15:36:49,957 autoreload 3928 3240 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\forms.py changed, reloading.
+INFO 2023-10-07 15:36:50,318 autoreload 4060 13808 Watching for file changes with StatReloader
+INFO 2023-10-07 15:40:03,960 autoreload 13656 22748 Watching for file changes with StatReloader
+INFO 2023-10-07 15:40:06,059 basehttp 13656 22600 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 15:40:06,257 basehttp 13656 21336 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 15:40:12,790 basehttp 13656 22600 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:40:12,893 basehttp 13656 21336 "GET /add_author/ HTTP/1.1" 200 1217
+INFO 2023-10-07 15:41:35,708 autoreload 13656 22748 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\forms.py changed, reloading.
+INFO 2023-10-07 15:41:36,123 autoreload 13476 22676 Watching for file changes with StatReloader
+INFO 2023-10-07 15:41:50,643 autoreload 13476 22676 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\models.py changed, reloading.
+INFO 2023-10-07 15:41:51,025 autoreload 19008 12960 Watching for file changes with StatReloader
+INFO 2023-10-07 15:42:00,410 autoreload 19008 12960 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\models.py changed, reloading.
+INFO 2023-10-07 15:42:00,765 autoreload 7248 21008 Watching for file changes with StatReloader
+INFO 2023-10-07 15:44:46,495 autoreload 3412 19260 Watching for file changes with StatReloader
+INFO 2023-10-07 15:44:48,710 basehttp 3412 13348 "GET /add_author/ HTTP/1.1" 200 1253
+INFO 2023-10-07 15:44:49,103 basehttp 3412 3076 "GET /add_author/ HTTP/1.1" 200 1253
+INFO 2023-10-07 15:46:16,634 basehttp 3412 13348 "POST /add_author/ HTTP/1.1" 200 144
+INFO 2023-10-07 15:46:16,690 basehttp 3412 3076 "GET /add_author/ HTTP/1.1" 200 1253
+INFO 2023-10-07 15:48:28,875 autoreload 3412 19260 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:48:29,276 autoreload 21188 13860 Watching for file changes with StatReloader
+INFO 2023-10-07 15:49:51,544 autoreload 21188 13860 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:49:51,923 autoreload 17084 12840 Watching for file changes with StatReloader
+INFO 2023-10-07 15:50:04,555 autoreload 17084 12840 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:50:04,969 autoreload 1232 3244 Watching for file changes with StatReloader
+INFO 2023-10-07 15:53:59,290 autoreload 1232 3244 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:53:59,685 autoreload 2792 16848 Watching for file changes with StatReloader
+INFO 2023-10-07 15:54:16,416 autoreload 2792 16848 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:54:16,806 autoreload 1456 5064 Watching for file changes with StatReloader
+INFO 2023-10-07 15:54:27,169 autoreload 1456 5064 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:54:27,570 autoreload 3824 9024 Watching for file changes with StatReloader
+INFO 2023-10-07 15:54:33,997 autoreload 3824 9024 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:54:34,413 autoreload 11336 14664 Watching for file changes with StatReloader
+INFO 2023-10-07 15:54:37,816 autoreload 11336 14664 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:54:38,218 autoreload 16240 18016 Watching for file changes with StatReloader
+INFO 2023-10-07 15:54:42,459 autoreload 16240 18016 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:54:42,838 autoreload 10064 16960 Watching for file changes with StatReloader
+INFO 2023-10-07 15:54:47,253 autoreload 10064 16960 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:54:47,670 autoreload 11668 5720 Watching for file changes with StatReloader
+INFO 2023-10-07 15:55:13,565 autoreload 11668 5720 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:55:13,978 autoreload 22940 9860 Watching for file changes with StatReloader
+INFO 2023-10-07 15:56:16,941 autoreload 22940 9860 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\views.py changed, reloading.
+INFO 2023-10-07 15:56:17,384 autoreload 1768 20172 Watching for file changes with StatReloader
+INFO 2023-10-07 16:19:08,370 autoreload 12684 1408 Watching for file changes with StatReloader
+INFO 2023-10-07 16:32:33,396 autoreload 15632 22052 Watching for file changes with StatReloader
+INFO 2023-10-07 16:34:07,150 autoreload 12824 12040 Watching for file changes with StatReloader
+INFO 2023-10-07 16:56:31,869 autoreload 5560 16200 Watching for file changes with StatReloader
+INFO 2023-10-07 16:56:54,056 autoreload 12408 2932 Watching for file changes with StatReloader
+INFO 2023-10-07 16:57:12,587 autoreload 12408 2932 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\models.py changed, reloading.
+INFO 2023-10-07 16:57:16,886 autoreload 3480 16048 Watching for file changes with StatReloader
+INFO 2023-10-07 16:58:25,567 autoreload 3480 16048 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp4\models.py changed, reloading.
+INFO 2023-10-07 16:58:25,967 autoreload 6328 4660 Watching for file changes with StatReloader
+INFO 2023-10-07 16:58:38,380 autoreload 6328 4660 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_4\views.py changed, reloading.
+INFO 2023-10-07 16:58:38,734 autoreload 14604 4612 Watching for file changes with StatReloader
+INFO 2023-10-07 16:58:56,288 autoreload 14604 4612 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_4\urls.py changed, reloading.
+INFO 2023-10-07 16:58:56,662 autoreload 12136 2828 Watching for file changes with StatReloader
+INFO 2023-10-07 17:00:34,934 autoreload 12136 2828 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_4\urls.py changed, reloading.
+INFO 2023-10-07 17:00:35,343 autoreload 14384 15548 Watching for file changes with StatReloader
+INFO 2023-10-07 17:00:57,958 autoreload 14384 15548 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_4\urls.py changed, reloading.
+INFO 2023-10-07 17:00:58,330 autoreload 8104 10344 Watching for file changes with StatReloader
+INFO 2023-10-07 17:01:11,867 autoreload 8104 10344 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_4\urls.py changed, reloading.
+INFO 2023-10-07 17:01:12,238 autoreload 1412 5156 Watching for file changes with StatReloader
+INFO 2023-10-07 17:12:55,220 autoreload 14504 12268 Watching for file changes with StatReloader
+INFO 2023-10-07 17:12:57,351 basehttp 14504 10304 "GET / HTTP/1.1" 200 12
+INFO 2023-10-07 17:12:57,495 basehttp 14504 6420 "GET / HTTP/1.1" 200 12
+WARNING 2023-10-07 17:12:57,556 log 14504 10304 Not Found: /favicon.ico
+WARNING 2023-10-07 17:12:57,557 basehttp 14504 10304 "GET /favicon.ico HTTP/1.1" 404 6466
+INFO 2023-10-07 17:13:04,344 basehttp 14504 10304 "GET /eagle4/4 HTTP/1.1" 200 633
+INFO 2023-10-07 17:13:04,394 basehttp 14504 6420 "GET /eagle4/4 HTTP/1.1" 200 633
+WARNING 2023-10-07 17:13:08,220 log 14504 10304 Not Found: /homework4/product_update_id
+WARNING 2023-10-07 17:13:08,221 basehttp 14504 10304 "GET /homework4/product_update_id HTTP/1.1" 404 6514
+WARNING 2023-10-07 17:13:08,314 log 14504 6420 Not Found: /homework4/product_update_id
+WARNING 2023-10-07 17:13:08,315 basehttp 14504 6420 "GET /homework4/product_update_id HTTP/1.1" 404 6514
+INFO 2023-10-07 17:14:20,322 basehttp 14504 10304 "GET /product_update HTTP/1.1" 301 0
+ERROR 2023-10-07 17:14:20,926 basehttp 14504 13088 "GET /product_update/ HTTP/1.1" 500 59
+ERROR 2023-10-07 17:14:21,481 basehttp 14504 6420 "GET /product_update/ HTTP/1.1" 500 59
+INFO 2023-10-07 17:14:27,974 basehttp 14504 13088 "GET /product_update/2 HTTP/1.1" 200 1274
+INFO 2023-10-07 17:14:28,039 basehttp 14504 6420 "GET /product_update/2 HTTP/1.1" 200 1274
+INFO 2023-10-07 17:27:43,261 views 14504 6684 Получили form.cleaned_data={'name': 'смартфон', 'price': 49990.0, 'description': 'смартфон redmi', 'number': 50, 'image': <InMemoryUploadedFile: maxresdefault.jpg (image/jpeg)>}.
+INFO 2023-10-07 17:27:43,891 basehttp 14504 6684 "POST /product_update/2 HTTP/1.1" 200 1346
+INFO 2023-10-07 17:27:44,034 basehttp 14504 1960 "GET /product_update/2 HTTP/1.1" 200 1274

@@ -42,6 +42,9 @@ INSTALLED_APPS = [
     'homework_2',
     'myapp3',
     'homework_3',
+    'myapp4',
+    'homework_4',
+
 ]
 
 MIDDLEWARE = [
@@ -107,7 +110,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'UTC+4'
 
 USE_I18N = True
 
@@ -187,5 +190,30 @@ LOGGING = {
             'level': 'INFO',
             'propagate': True,
         },
+        'myapp4': {
+            'handlers': ['console', 'file'],
+            'level': 'INFO',
+            'propagate': True,
+        },
+        'homework_4': {
+            'handlers': ['console', 'file'],
+            'level': 'INFO',
+            'propagate': True,
+        },
     },
 }
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
+
+
+# STATIC_ROOT = os.path.join(BASE_DIR, 'static')    # for web dev
+
+
+# STATIC_ROOT = BASE_DIR / 'static/'
+
+# STATICFILES_DIRS = [
+#     os.path.join(BASE_DIR, 'static/'),                             # for local dev, off on web
+#     os.path.join(BASE_DIR, 'seminar3/static/seminar3/'),
+#     os.path.join(BASE_DIR, 'seminar4/static/seminar4/'),
+# ]

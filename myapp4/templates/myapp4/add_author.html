@@ -1,0 +1,14 @@
+{% extends 'myapp4/base.html' %}
+
+{% block h1 %}
+    {{ h1 }}
+{% endblock h1 %}
+{% block content %}
+    <p>Это главная страница</p>
+    <h1>Добавить автора</h1>
+    <form action="" method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Add">
+    </form>
+{% endblock content %}
