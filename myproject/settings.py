@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'homework_3',
     'myapp4',
     'homework_4',
+    'myapp5',
+    'homework_5',
 
 ]
 
@@ -108,9 +110,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ru-ru'
 
-TIME_ZONE = 'UTC+4'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
@@ -200,12 +202,21 @@ LOGGING = {
             'level': 'INFO',
             'propagate': True,
         },
+        'myapp5': {
+            'handlers': ['console', 'file'],
+            'level': 'INFO',
+            'propagate': True,
+        },
+        'homework_5': {
+            'handlers': ['console', 'file'],
+            'level': 'INFO',
+            'propagate': True,
+        },
     },
 }
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
-
 
 # STATIC_ROOT = os.path.join(BASE_DIR, 'static')    # for web dev
 
