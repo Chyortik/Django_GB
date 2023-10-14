@@ -16,6 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from homework_4.views import upload_image
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -26,5 +27,6 @@ urlpatterns = [
     path('', include('homework_3.urls')),
     path('', include('myapp4.urls')),
     path('', include('homework_4.urls')),
+    path('upload/', upload_image, name='upload_image'),
     # path('__debug__/', include("debug_toolbar.urls")),
 ]

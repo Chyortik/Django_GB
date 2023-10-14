@@ -2795,3 +2795,1133 @@ INFO 2023-10-14 14:09:30,122 autoreload 15888 7432 C:\Users\dima4\Documents\Geek
 INFO 2023-10-14 14:09:30,608 autoreload 17096 1680 Watching for file changes with StatReloader
 INFO 2023-10-14 14:10:48,352 autoreload 17096 1680 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
 INFO 2023-10-14 14:10:48,831 autoreload 4780 15664 Watching for file changes with StatReloader
+INFO 2023-10-14 19:19:06,547 autoreload 7044 3588 Watching for file changes with StatReloader
+ERROR 2023-10-14 19:19:18,539 basehttp 7044 7080 "GET / HTTP/1.1" 500 59
+ERROR 2023-10-14 19:19:19,400 basehttp 7044 18876 "GET / HTTP/1.1" 500 59
+ERROR 2023-10-14 19:19:23,528 basehttp 7044 7080 "GET / HTTP/1.1" 500 59
+ERROR 2023-10-14 19:19:24,407 basehttp 7044 18876 "GET / HTTP/1.1" 500 59
+INFO 2023-10-14 19:20:14,983 autoreload 7044 3588 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-14 19:20:15,448 autoreload 10368 13760 Watching for file changes with StatReloader
+INFO 2023-10-14 19:21:49,128 autoreload 10368 13760 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-14 19:21:49,532 autoreload 4956 13636 Watching for file changes with StatReloader
+ERROR 2023-10-14 19:21:52,549 log 4956 18940 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2023-10-14 19:21:52,555 basehttp 4956 18940 "GET / HTTP/1.1" 500 143774
+ERROR 2023-10-14 19:21:52,650 log 4956 16540 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2023-10-14 19:21:52,655 basehttp 4956 16540 "GET / HTTP/1.1" 500 142692
+INFO 2023-10-14 19:22:19,970 autoreload 4956 13636 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\urls.py changed, reloading.
+INFO 2023-10-14 19:22:20,409 autoreload 8992 2900 Watching for file changes with StatReloader
+INFO 2023-10-14 19:22:22,107 basehttp 8992 13924 "GET / HTTP/1.1" 200 12
+INFO 2023-10-14 19:22:22,191 basehttp 8992 18500 "GET / HTTP/1.1" 200 12
+INFO 2023-10-14 19:22:59,068 autoreload 8992 2900 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myapp\urls.py changed, reloading.
+INFO 2023-10-14 19:22:59,562 autoreload 9148 18892 Watching for file changes with StatReloader
+ERROR 2023-10-14 19:23:00,095 log 9148 15084 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_3\views.py", line 8, in index
+    return render(request, "homework_3/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 19:23:00,210 basehttp 9148 15084 "GET / HTTP/1.1" 500 150659
+INFO 2023-10-14 19:23:00,298 basehttp 9148 15084 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-14 19:23:00,304 basehttp 9148 15392 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-14 19:23:00,336 basehttp 9148 15392 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-14 19:23:00,387 basehttp 9148 15392 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+ERROR 2023-10-14 19:23:00,471 log 9148 7068 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_3\views.py", line 8, in index
+    return render(request, "homework_3/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 19:23:00,532 basehttp 9148 7068 "GET / HTTP/1.1" 500 149579
+INFO 2023-10-14 19:26:01,092 basehttp 9148 14476 "GET / HTTP/1.1" 200 11307
+INFO 2023-10-14 19:26:01,195 basehttp 9148 18088 "GET / HTTP/1.1" 200 11307
+INFO 2023-10-14 19:26:24,558 basehttp 9148 17444 "GET /main_page HTTP/1.1" 200 10836
+INFO 2023-10-14 19:26:24,595 basehttp 9148 6340 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 304 0
+INFO 2023-10-14 19:26:24,702 basehttp 9148 11840 "GET /main_page HTTP/1.1" 200 10835
+INFO 2023-10-14 19:26:25,889 views 9148 6340 посещение страницы index в: 2023-10-14 19:26:25.889461
+INFO 2023-10-14 19:26:25,903 basehttp 9148 6340 "GET /main_page/ HTTP/1.1" 200 11975
+INFO 2023-10-14 19:26:25,981 views 9148 13572 посещение страницы index в: 2023-10-14 19:26:25.981143
+INFO 2023-10-14 19:26:25,997 basehttp 9148 13572 "GET /main_page/ HTTP/1.1" 200 11975
+INFO 2023-10-14 19:26:32,261 views 9148 16720 посещение страницы about в: 2023-10-14 19:26:32.261456
+INFO 2023-10-14 19:26:32,274 basehttp 9148 16720 "GET /about/ HTTP/1.1" 200 11894
+INFO 2023-10-14 19:26:32,530 views 9148 17712 посещение страницы about в: 2023-10-14 19:26:32.530573
+INFO 2023-10-14 19:26:32,543 basehttp 9148 17712 "GET /about/ HTTP/1.1" 200 11894
+INFO 2023-10-14 20:26:57,608 autoreload 9148 18892 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\urls.py changed, reloading.
+INFO 2023-10-14 20:26:58,832 autoreload 11736 17036 Watching for file changes with StatReloader
+INFO 2023-10-14 20:26:59,464 views 11736 6708 посещение страницы about в: 2023-10-14 20:26:59.464833
+INFO 2023-10-14 20:26:59,527 basehttp 11736 6708 "GET /about/ HTTP/1.1" 200 11892
+INFO 2023-10-14 20:26:59,673 basehttp 11736 6708 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-14 20:26:59,674 basehttp 11736 10392 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-14 20:26:59,714 basehttp 11736 10392 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-14 20:26:59,743 basehttp 11736 10392 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2023-10-14 20:26:59,867 views 11736 9692 посещение страницы about в: 2023-10-14 20:26:59.867112
+INFO 2023-10-14 20:26:59,880 basehttp 11736 9692 "GET /about/ HTTP/1.1" 200 11894
+WARNING 2023-10-14 20:27:02,445 log 11736 9692 Not Found: /main_page/
+WARNING 2023-10-14 20:27:02,445 basehttp 11736 9692 "GET /main_page/ HTTP/1.1" 404 16691
+WARNING 2023-10-14 20:27:03,179 log 11736 9692 Not Found: /main_page
+WARNING 2023-10-14 20:27:03,180 basehttp 11736 9692 "GET /main_page HTTP/1.1" 404 16687
+INFO 2023-10-14 20:27:04,005 views 11736 9692 посещение страницы index в: 2023-10-14 20:27:04.004502
+INFO 2023-10-14 20:27:04,020 basehttp 11736 9692 "GET / HTTP/1.1" 200 11965
+INFO 2023-10-14 20:27:05,918 views 11736 10392 посещение страницы index в: 2023-10-14 20:27:05.918802
+INFO 2023-10-14 20:27:05,931 basehttp 11736 10392 "GET / HTTP/1.1" 200 11965
+INFO 2023-10-14 20:27:05,984 views 11736 9692 посещение страницы index в: 2023-10-14 20:27:05.984999
+INFO 2023-10-14 20:27:06,002 basehttp 11736 9692 "GET / HTTP/1.1" 200 11965
+WARNING 2023-10-14 20:28:54,541 log 11736 10392 Not Found: /eagle
+WARNING 2023-10-14 20:28:54,542 basehttp 11736 10392 "GET /eagle HTTP/1.1" 404 16671
+WARNING 2023-10-14 20:28:54,745 log 11736 9692 Not Found: /eagle
+WARNING 2023-10-14 20:28:54,745 basehttp 11736 9692 "GET /eagle HTTP/1.1" 404 16671
+ERROR 2023-10-14 20:28:59,423 log 11736 10392 Internal Server Error: /eagle/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 27, in eagle
+    return render(request, 'myapp3/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 20:28:59,571 basehttp 11736 10392 "GET /eagle/2 HTTP/1.1" 500 151526
+ERROR 2023-10-14 20:28:59,866 log 11736 9692 Internal Server Error: /eagle/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 27, in eagle
+    return render(request, 'myapp3/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 20:28:59,937 basehttp 11736 9692 "GET /eagle/2 HTTP/1.1" 500 150553
+INFO 2023-10-14 20:30:11,985 basehttp 11736 10392 "GET /cube HTTP/1.1" 200 10820
+INFO 2023-10-14 20:30:12,023 basehttp 11736 6708 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 304 0
+INFO 2023-10-14 20:30:12,175 basehttp 11736 9692 "GET /cube HTTP/1.1" 200 10821
+INFO 2023-10-14 20:30:14,032 views 11736 6708 Выпало значение: 6
+INFO 2023-10-14 20:30:14,044 basehttp 11736 6708 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-10-14 20:30:14,088 views 11736 1776 Выпало значение: 2
+INFO 2023-10-14 20:30:14,105 basehttp 11736 1776 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-10-14 20:30:16,347 views 11736 6708 Выпало значение: 1
+INFO 2023-10-14 20:30:16,361 basehttp 11736 6708 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-10-14 20:30:16,403 views 11736 1776 Выпало значение: 4
+INFO 2023-10-14 20:30:16,417 basehttp 11736 1776 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-10-14 20:30:17,122 views 11736 6708 Выпало значение: 1
+INFO 2023-10-14 20:30:17,135 basehttp 11736 6708 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-10-14 20:30:17,171 views 11736 1776 Выпало значение: 5
+INFO 2023-10-14 20:30:17,186 basehttp 11736 1776 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-10-14 20:32:01,308 basehttp 11736 1776 "GET /cube HTTP/1.1" 200 10820
+ERROR 2023-10-14 20:32:02,032 log 11736 9388 Internal Server Error: /eagle/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 27, in eagle
+    return render(request, 'myapp3/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 20:32:02,111 basehttp 11736 9388 "GET /eagle/2 HTTP/1.1" 500 150523
+ERROR 2023-10-14 20:32:03,244 log 11736 6708 Internal Server Error: /eagle/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 27, in eagle
+    return render(request, 'myapp3/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 20:32:03,322 basehttp 11736 6708 "GET /eagle/2 HTTP/1.1" 500 151605
+ERROR 2023-10-14 20:32:03,521 log 11736 9388 Internal Server Error: /eagle/2
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 27, in eagle
+    return render(request, 'myapp3/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 20:32:03,584 basehttp 11736 9388 "GET /eagle/2 HTTP/1.1" 500 150553
+ERROR 2023-10-14 20:32:09,199 log 11736 6708 Internal Server Error: /eagle/5
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 27, in eagle
+    return render(request, 'myapp3/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 20:32:09,329 basehttp 11736 6708 "GET /eagle/5 HTTP/1.1" 500 152392
+ERROR 2023-10-14 20:32:09,526 log 11736 9388 Internal Server Error: /eagle/5
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\games_app\views.py", line 27, in eagle
+    return render(request, 'myapp3/index.html', context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 20:32:09,589 basehttp 11736 9388 "GET /eagle/5 HTTP/1.1" 500 151533
+INFO 2023-10-14 20:34:29,022 basehttp 11736 6708 "GET /eagle/5 HTTP/1.1" 200 10629
+INFO 2023-10-14 20:34:29,097 basehttp 11736 9388 "GET /eagle/5 HTTP/1.1" 200 10629
+INFO 2023-10-14 20:34:45,073 basehttp 11736 6708 "GET /random_number HTTP/1.1" 200 10847
+INFO 2023-10-14 20:34:45,294 basehttp 11736 9388 "GET /random_number HTTP/1.1" 200 10848
+INFO 2023-10-14 20:34:46,648 views 11736 1120 Выпало число: 6
+INFO 2023-10-14 20:34:46,663 basehttp 11736 1120 "GET /random_number/ HTTP/1.1" 200 1
+INFO 2023-10-14 20:34:46,704 views 11736 1436 Выпало число: 23
+INFO 2023-10-14 20:34:46,720 basehttp 11736 1436 "GET /random_number/ HTTP/1.1" 200 2
+INFO 2023-10-14 20:34:49,516 views 11736 1120 Выпало число: 88
+INFO 2023-10-14 20:34:49,528 basehttp 11736 1120 "GET /random_number/ HTTP/1.1" 200 2
+INFO 2023-10-14 20:34:49,564 views 11736 1436 Выпало число: 89
+INFO 2023-10-14 20:34:49,579 basehttp 11736 1436 "GET /random_number/ HTTP/1.1" 200 2
+INFO 2023-10-14 20:35:01,630 basehttp 11736 1120 "GET /show_elements/5 HTTP/1.1" 200 32
+INFO 2023-10-14 20:35:01,696 basehttp 11736 1436 "GET /show_elements/5 HTTP/1.1" 200 32
+INFO 2023-10-14 20:35:06,443 basehttp 11736 1120 "GET /show_elements/2 HTTP/1.1" 200 32
+INFO 2023-10-14 20:35:06,510 basehttp 11736 1436 "GET /show_elements/2 HTTP/1.1" 200 32
+INFO 2023-10-14 20:35:19,633 basehttp 11736 1436 "GET /show_elements/5 HTTP/1.1" 200 32
+INFO 2023-10-14 20:35:20,181 views 11736 1436 Выпало число: 4
+INFO 2023-10-14 20:35:20,198 basehttp 11736 1436 "GET /random_number/ HTTP/1.1" 200 1
+INFO 2023-10-14 20:35:21,219 basehttp 11736 1436 "GET /random_number HTTP/1.1" 200 10847
+INFO 2023-10-14 20:35:22,791 views 11736 1120 Выпало число: 81
+INFO 2023-10-14 20:35:22,805 basehttp 11736 1120 "GET /random_number/ HTTP/1.1" 200 2
+INFO 2023-10-14 20:35:22,850 views 11736 10704 Выпало число: 12
+INFO 2023-10-14 20:35:22,865 basehttp 11736 10704 "GET /random_number/ HTTP/1.1" 200 2
+INFO 2023-10-14 20:35:24,113 basehttp 11736 10704 "GET /random_number HTTP/1.1" 200 10847
+INFO 2023-10-14 20:35:24,500 basehttp 11736 1620 "GET /eagle/5 HTTP/1.1" 200 10633
+INFO 2023-10-14 20:37:05,438 basehttp 11736 1120 "GET /user/5 HTTP/1.1" 200 10826
+INFO 2023-10-14 20:37:05,574 basehttp 11736 1620 "GET /user/5 HTTP/1.1" 200 10826
+ERROR 2023-10-14 20:37:07,360 log 11736 8832 Internal Server Error: /user/5/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_3\views.py", line 18, in basket
+    return render(request, 'homework_3/user_all_orders.html', {'user': user, 'orders': orders, 'products': products})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 20:37:07,456 basehttp 11736 8832 "GET /user/5/ HTTP/1.1" 500 166882
+ERROR 2023-10-14 20:37:07,720 log 11736 18156 Internal Server Error: /user/5/
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_3\views.py", line 18, in basket
+    return render(request, 'homework_3/user_all_orders.html', {'user': user, 'orders': orders, 'products': products})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\.venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-14 20:37:07,880 basehttp 11736 18156 "GET /user/5/ HTTP/1.1" 500 165780
+INFO 2023-10-14 20:38:03,743 basehttp 11736 8832 "GET /user/5/ HTTP/1.1" 200 11501
+INFO 2023-10-14 20:38:03,904 basehttp 11736 18156 "GET /user/5/ HTTP/1.1" 200 11501
+INFO 2023-10-14 20:38:30,066 basehttp 11736 8832 "GET /user_sorted/5/30 HTTP/1.1" 200 10856
+INFO 2023-10-14 20:38:30,195 basehttp 11736 18156 "GET /user_sorted/5/30 HTTP/1.1" 200 10856
+INFO 2023-10-14 20:38:31,697 basehttp 11736 6016 "GET /user_sorted/5/30/ HTTP/1.1" 200 11204
+INFO 2023-10-14 20:38:31,923 basehttp 11736 12240 "GET /user_sorted/5/30/ HTTP/1.1" 200 11205
+INFO 2023-10-14 20:39:29,804 views 11736 6016 посещение страницы index в: 2023-10-14 20:39:29.804810
+INFO 2023-10-14 20:39:29,821 basehttp 11736 6016 "GET / HTTP/1.1" 200 11965
+INFO 2023-10-14 20:39:30,157 views 11736 12240 посещение страницы index в: 2023-10-14 20:39:30.157829
+INFO 2023-10-14 20:39:30,169 basehttp 11736 12240 "GET / HTTP/1.1" 200 11965
+INFO 2023-10-14 20:39:41,384 autoreload 11736 17036 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_4\urls.py changed, reloading.
+INFO 2023-10-14 20:39:42,150 autoreload 18220 6212 Watching for file changes with StatReloader
+INFO 2023-10-14 20:39:46,429 basehttp 18220 19424 "GET /hw_4 HTTP/1.1" 200 11271
+INFO 2023-10-14 20:39:46,522 basehttp 18220 10768 "GET /hw_4 HTTP/1.1" 200 11273
+INFO 2023-10-14 20:39:48,661 views 18220 19424 посещение страницы index в: 2023-10-14 20:39:48.661267
+INFO 2023-10-14 20:39:48,675 basehttp 18220 19424 "GET / HTTP/1.1" 200 11965
+INFO 2023-10-14 20:39:48,733 views 18220 10768 посещение страницы index в: 2023-10-14 20:39:48.733174
+INFO 2023-10-14 20:39:48,750 basehttp 18220 10768 "GET / HTTP/1.1" 200 11965
+INFO 2023-10-14 20:39:50,727 basehttp 18220 10768 "GET /hw_4 HTTP/1.1" 200 11273
+INFO 2023-10-14 20:39:51,897 basehttp 18220 19424 "GET /products/ HTTP/1.1" 200 16085
+INFO 2023-10-14 20:39:52,029 basehttp 18220 10768 "GET /products/ HTTP/1.1" 200 16084
+INFO 2023-10-14 20:39:54,563 basehttp 18220 19424 "GET /change_product/1/? HTTP/1.1" 200 12536
+INFO 2023-10-14 20:39:54,671 basehttp 18220 10768 "GET /change_product/1/? HTTP/1.1" 200 12535
+INFO 2023-10-14 20:40:16,686 basehttp 18220 19424 "POST /change_product/1/? HTTP/1.1" 200 10813
+INFO 2023-10-14 20:40:16,808 basehttp 18220 10768 "GET /change_product/1/? HTTP/1.1" 200 12790
+INFO 2023-10-14 20:40:18,643 basehttp 18220 10064 "GET /products/ HTTP/1.1" 200 16121
+INFO 2023-10-14 20:40:18,735 basehttp 18220 10768 "GET /products/ HTTP/1.1" 200 16121
+INFO 2023-10-14 20:40:22,559 basehttp 18220 10064 "GET /products/ HTTP/1.1" 200 16121
+INFO 2023-10-14 20:40:22,648 basehttp 18220 10768 "GET /products/ HTTP/1.1" 200 16121
+INFO 2023-10-14 20:40:25,371 views 18220 10064 посещение страницы index в: 2023-10-14 20:40:25.370522
+INFO 2023-10-14 20:40:25,383 basehttp 18220 10064 "GET / HTTP/1.1" 200 11965
+INFO 2023-10-14 20:40:25,435 views 18220 10768 посещение страницы index в: 2023-10-14 20:40:25.435232
+INFO 2023-10-14 20:40:25,450 basehttp 18220 10768 "GET / HTTP/1.1" 200 11965
+INFO 2023-10-14 20:43:20,175 autoreload 18220 6212 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:43:20,772 autoreload 9336 9316 Watching for file changes with StatReloader
+INFO 2023-10-14 20:43:35,507 autoreload 9336 9316 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:43:35,974 autoreload 12184 18464 Watching for file changes with StatReloader
+INFO 2023-10-14 20:43:36,443 views 12184 18360 посещение страницы index в: 2023-10-14 20:43:36.443005
+INFO 2023-10-14 20:43:36,470 basehttp 12184 18360 "GET / HTTP/1.1" 200 12048
+INFO 2023-10-14 20:43:36,611 views 12184 4272 посещение страницы index в: 2023-10-14 20:43:36.611604
+INFO 2023-10-14 20:43:36,623 basehttp 12184 4272 "GET / HTTP/1.1" 200 12050
+INFO 2023-10-14 20:44:33,298 autoreload 12184 18464 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:44:33,778 autoreload 13296 8684 Watching for file changes with StatReloader
+INFO 2023-10-14 20:44:36,214 views 13296 2248 посещение страницы index в: 2023-10-14 20:44:36.214059
+INFO 2023-10-14 20:44:36,240 basehttp 13296 2248 "GET / HTTP/1.1" 200 12084
+INFO 2023-10-14 20:44:36,351 views 13296 1508 посещение страницы index в: 2023-10-14 20:44:36.351950
+INFO 2023-10-14 20:44:36,367 basehttp 13296 1508 "GET / HTTP/1.1" 200 12086
+INFO 2023-10-14 20:47:37,275 autoreload 20460 20464 Watching for file changes with StatReloader
+INFO 2023-10-14 20:47:39,523 views 20460 14352 посещение страницы index в: 2023-10-14 20:47:39.523164
+INFO 2023-10-14 20:47:39,565 basehttp 20460 14352 "GET / HTTP/1.1" 200 12093
+INFO 2023-10-14 20:47:39,723 views 20460 12792 посещение страницы index в: 2023-10-14 20:47:39.723496
+INFO 2023-10-14 20:47:39,741 basehttp 20460 12792 "GET / HTTP/1.1" 200 12095
+INFO 2023-10-14 20:48:08,397 basehttp 20460 14352 "GET /eagle/3 HTTP/1.1" 200 10571
+INFO 2023-10-14 20:48:08,490 basehttp 20460 12792 "GET /eagle/3 HTTP/1.1" 200 10571
+INFO 2023-10-14 20:48:30,863 autoreload 20460 20464 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:48:31,371 autoreload 18080 8980 Watching for file changes with StatReloader
+INFO 2023-10-14 20:50:23,620 autoreload 18080 8980 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:50:24,076 autoreload 9400 8684 Watching for file changes with StatReloader
+INFO 2023-10-14 20:50:48,216 autoreload 9400 8684 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:50:48,651 autoreload 19948 20112 Watching for file changes with StatReloader
+INFO 2023-10-14 20:51:33,308 autoreload 19948 20112 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:51:33,789 autoreload 14872 18172 Watching for file changes with StatReloader
+INFO 2023-10-14 20:52:04,054 autoreload 14872 18172 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:52:04,563 autoreload 9368 18984 Watching for file changes with StatReloader
+INFO 2023-10-14 20:52:28,659 autoreload 9368 18984 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:52:29,170 autoreload 4544 19708 Watching for file changes with StatReloader
+INFO 2023-10-14 20:52:34,866 basehttp 4544 4060 "GET /show_elements/5 HTTP/1.1" 200 32
+INFO 2023-10-14 20:52:34,975 basehttp 4544 13760 "GET /show_elements/5 HTTP/1.1" 200 32
+INFO 2023-10-14 20:54:19,070 autoreload 4544 19708 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:54:19,519 autoreload 10624 10088 Watching for file changes with StatReloader
+INFO 2023-10-14 20:54:55,686 basehttp 10624 14384 "GET /user/5 HTTP/1.1" 200 10827
+INFO 2023-10-14 20:54:56,032 basehttp 10624 20036 "GET /user/5 HTTP/1.1" 200 10826
+INFO 2023-10-14 20:54:58,001 basehttp 10624 16040 "GET /user/5/ HTTP/1.1" 200 11503
+INFO 2023-10-14 20:54:58,104 basehttp 10624 9684 "GET /user/5/ HTTP/1.1" 200 11501
+INFO 2023-10-14 20:57:16,667 autoreload 10624 10088 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_4\urls.py changed, reloading.
+INFO 2023-10-14 20:57:17,219 autoreload 19536 9004 Watching for file changes with StatReloader
+INFO 2023-10-14 20:57:24,922 basehttp 19536 3484 "GET /hw_4 HTTP/1.1" 200 10820
+INFO 2023-10-14 20:57:25,059 basehttp 19536 5464 "GET /hw_4 HTTP/1.1" 200 10820
+INFO 2023-10-14 20:57:26,463 basehttp 19536 6340 "GET /hw_4/ HTTP/1.1" 200 11274
+INFO 2023-10-14 20:57:26,561 basehttp 19536 17832 "GET /hw_4/ HTTP/1.1" 200 11274
+INFO 2023-10-14 20:57:30,260 views 19536 6340 посещение страницы index в: 2023-10-14 20:57:30.260190
+INFO 2023-10-14 20:57:30,300 basehttp 19536 6340 "GET / HTTP/1.1" 200 13158
+INFO 2023-10-14 20:57:30,360 views 19536 17832 посещение страницы index в: 2023-10-14 20:57:30.360089
+INFO 2023-10-14 20:57:30,374 basehttp 19536 17832 "GET / HTTP/1.1" 200 13158
+INFO 2023-10-14 20:58:07,731 autoreload 19536 9004 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 20:58:08,263 autoreload 19548 18220 Watching for file changes with StatReloader
+INFO 2023-10-14 20:58:31,370 basehttp 19548 4588 "GET /admin/ HTTP/1.1" 200 10824
+INFO 2023-10-14 20:58:31,462 basehttp 19548 13084 "GET /admin/ HTTP/1.1" 200 10824
+INFO 2023-10-14 20:58:32,923 basehttp 19548 7080 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 14515
+INFO 2023-10-14 20:58:32,959 basehttp 19548 10520 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2023-10-14 20:58:32,963 basehttp 19548 7080 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2023-10-14 20:58:32,963 basehttp 19548 6672 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2023-10-14 20:58:32,964 basehttp 19548 1888 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2023-10-14 20:58:32,986 basehttp 19548 1888 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2023-10-14 20:58:32,986 basehttp 19548 6672 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2023-10-14 20:58:33,110 basehttp 19548 15104 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 14515
+INFO 2023-10-14 20:58:41,653 basehttp 19548 1888 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 14779
+INFO 2023-10-14 20:58:41,815 basehttp 19548 15104 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 14515
+INFO 2023-10-14 20:58:48,540 basehttp 19548 1888 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 14779
+INFO 2023-10-14 20:58:48,642 basehttp 19548 15104 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 14515
+INFO 2023-10-14 21:00:35,335 autoreload 2176 18468 Watching for file changes with StatReloader
+INFO 2023-10-14 21:00:42,638 basehttp 2176 8924 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 10806
+INFO 2023-10-14 21:00:42,762 basehttp 2176 19596 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 10803
+INFO 2023-10-14 21:00:44,584 basehttp 2176 17108 "GET /admin/ HTTP/1.1" 200 19699
+INFO 2023-10-14 21:00:44,625 basehttp 2176 17108 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:44,786 basehttp 2176 16852 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:44,786 basehttp 2176 17108 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:44,869 basehttp 2176 18748 "GET /admin/ HTTP/1.1" 200 19698
+INFO 2023-10-14 21:00:49,111 basehttp 2176 16852 "GET /admin/homework_5/order/ HTTP/1.1" 200 27088
+INFO 2023-10-14 21:00:49,163 basehttp 2176 16852 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,164 basehttp 2176 20056 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,165 basehttp 2176 14772 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,165 basehttp 2176 14624 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,166 basehttp 2176 12196 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,170 basehttp 2176 16852 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,171 basehttp 2176 20056 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,177 basehttp 2176 14772 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,177 basehttp 2176 14624 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,209 basehttp 2176 17108 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-14 21:00:49,216 basehttp 2176 14772 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,254 basehttp 2176 14772 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,285 basehttp 2176 17108 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,285 basehttp 2176 14772 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:49,454 basehttp 2176 18748 "GET /admin/homework_5/order/ HTTP/1.1" 200 27088
+INFO 2023-10-14 21:00:51,884 basehttp 2176 14772 "GET /admin/homework_5/product/ HTTP/1.1" 200 26502
+INFO 2023-10-14 21:00:51,992 basehttp 2176 14772 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-14 21:00:52,138 basehttp 2176 18748 "GET /admin/homework_5/product/ HTTP/1.1" 200 26503
+INFO 2023-10-14 21:00:52,822 basehttp 2176 14772 "GET /admin/homework_5/user/ HTTP/1.1" 200 27842
+INFO 2023-10-14 21:00:52,964 basehttp 2176 14772 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-14 21:00:53,104 basehttp 2176 18748 "GET /admin/homework_5/user/ HTTP/1.1" 200 27843
+INFO 2023-10-14 21:00:53,843 basehttp 2176 14772 "GET /admin/myapp5/article/ HTTP/1.1" 200 43399
+INFO 2023-10-14 21:00:53,907 basehttp 2176 14772 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-14 21:00:54,168 basehttp 2176 18748 "GET /admin/myapp5/article/ HTTP/1.1" 200 43398
+INFO 2023-10-14 21:00:54,724 basehttp 2176 14772 "GET /admin/myapp5/author/ HTTP/1.1" 200 23381
+INFO 2023-10-14 21:00:54,848 basehttp 2176 14772 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-14 21:00:55,089 basehttp 2176 18748 "GET /admin/myapp5/author/ HTTP/1.1" 200 23382
+INFO 2023-10-14 21:00:55,534 basehttp 2176 14772 "GET /admin/myapp5/coin/ HTTP/1.1" 200 20148
+INFO 2023-10-14 21:00:55,661 basehttp 2176 14772 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-14 21:00:55,779 basehttp 2176 18748 "GET /admin/myapp5/coin/ HTTP/1.1" 200 20147
+INFO 2023-10-14 21:00:56,407 basehttp 2176 14772 "GET /admin/myapp5/comment/ HTTP/1.1" 200 20172
+INFO 2023-10-14 21:00:56,465 basehttp 2176 14772 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-14 21:00:56,586 basehttp 2176 18748 "GET /admin/myapp5/comment/ HTTP/1.1" 200 20171
+INFO 2023-10-14 21:00:57,600 basehttp 2176 14772 "GET /admin/auth/group/ HTTP/1.1" 200 20529
+INFO 2023-10-14 21:00:57,732 basehttp 2176 14772 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-14 21:00:57,926 basehttp 2176 18748 "GET /admin/auth/group/ HTTP/1.1" 200 20530
+INFO 2023-10-14 21:00:58,659 basehttp 2176 14772 "GET /admin/auth/user/ HTTP/1.1" 200 24179
+INFO 2023-10-14 21:00:58,690 basehttp 2176 17108 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2023-10-14 21:00:58,721 basehttp 2176 14772 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-14 21:00:58,864 basehttp 2176 18748 "GET /admin/auth/user/ HTTP/1.1" 200 24179
+INFO 2023-10-14 21:02:22,564 autoreload 2176 18468 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:02:23,526 autoreload 7316 19544 Watching for file changes with StatReloader
+INFO 2023-10-14 21:02:27,665 views 7316 13928 посещение страницы index в: 2023-10-14 21:02:27.665257
+INFO 2023-10-14 21:02:27,695 basehttp 7316 13928 "GET / HTTP/1.1" 200 13261
+INFO 2023-10-14 21:02:27,931 views 7316 14872 посещение страницы index в: 2023-10-14 21:02:27.931416
+INFO 2023-10-14 21:02:27,948 basehttp 7316 14872 "GET / HTTP/1.1" 200 13263
+INFO 2023-10-14 21:04:16,055 autoreload 7316 19544 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:04:16,530 autoreload 8088 16532 Watching for file changes with StatReloader
+INFO 2023-10-14 21:05:03,273 autoreload 8088 16532 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:05:03,790 autoreload 10264 5796 Watching for file changes with StatReloader
+INFO 2023-10-14 21:05:05,041 views 10264 10812 посещение страницы index в: 2023-10-14 21:05:05.040677
+INFO 2023-10-14 21:05:05,072 basehttp 10264 10812 "GET / HTTP/1.1" 200 14120
+INFO 2023-10-14 21:05:05,234 views 10264 19264 посещение страницы index в: 2023-10-14 21:05:05.234290
+INFO 2023-10-14 21:05:05,255 basehttp 10264 19264 "GET / HTTP/1.1" 200 14122
+INFO 2023-10-14 21:06:18,711 autoreload 10264 5796 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:06:19,188 autoreload 8084 11040 Watching for file changes with StatReloader
+INFO 2023-10-14 21:09:15,410 autoreload 8084 11040 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:09:15,861 autoreload 9720 12184 Watching for file changes with StatReloader
+INFO 2023-10-14 21:09:17,331 views 9720 17204 посещение страницы index в: 2023-10-14 21:09:17.331292
+INFO 2023-10-14 21:09:17,364 basehttp 9720 17204 "GET / HTTP/1.1" 200 14184
+INFO 2023-10-14 21:09:17,475 views 9720 14688 посещение страницы index в: 2023-10-14 21:09:17.475995
+INFO 2023-10-14 21:09:17,494 basehttp 9720 14688 "GET / HTTP/1.1" 200 14186
+INFO 2023-10-14 21:15:51,228 autoreload 9720 12184 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:15:51,740 autoreload 20100 15504 Watching for file changes with StatReloader
+INFO 2023-10-14 21:15:52,395 views 20100 1488 посещение страницы index в: 2023-10-14 21:15:52.395738
+INFO 2023-10-14 21:15:52,424 basehttp 20100 1488 "GET / HTTP/1.1" 200 14400
+INFO 2023-10-14 21:15:52,652 views 20100 6088 посещение страницы index в: 2023-10-14 21:15:52.652479
+INFO 2023-10-14 21:15:52,667 basehttp 20100 6088 "GET / HTTP/1.1" 200 14402
+INFO 2023-10-14 21:16:35,447 autoreload 20100 15504 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:16:35,914 autoreload 12120 8668 Watching for file changes with StatReloader
+INFO 2023-10-14 21:16:36,307 views 12120 20260 посещение страницы index в: 2023-10-14 21:16:36.306318
+INFO 2023-10-14 21:16:36,335 basehttp 12120 20260 "GET / HTTP/1.1" 200 14402
+INFO 2023-10-14 21:16:36,362 basehttp 12120 15104 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:16:36,362 basehttp 12120 20260 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-14 21:16:36,391 basehttp 12120 15104 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-14 21:16:36,396 views 12120 12884 посещение страницы index в: 2023-10-14 21:16:36.396133
+INFO 2023-10-14 21:16:36,396 basehttp 12120 20260 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2023-10-14 21:16:36,414 basehttp 12120 12884 "GET / HTTP/1.1" 200 14404
+INFO 2023-10-14 21:17:02,023 autoreload 12120 8668 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:17:02,523 autoreload 9492 11364 Watching for file changes with StatReloader
+INFO 2023-10-14 21:17:03,199 views 9492 16548 посещение страницы index в: 2023-10-14 21:17:03.199500
+INFO 2023-10-14 21:17:03,228 basehttp 9492 16548 "GET / HTTP/1.1" 200 14404
+INFO 2023-10-14 21:17:03,283 views 9492 15564 посещение страницы index в: 2023-10-14 21:17:03.283012
+INFO 2023-10-14 21:17:03,298 basehttp 9492 15564 "GET / HTTP/1.1" 200 14406
+INFO 2023-10-14 21:17:36,906 autoreload 9492 11364 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:17:37,417 autoreload 12336 1144 Watching for file changes with StatReloader
+INFO 2023-10-14 21:17:38,067 views 12336 11940 посещение страницы index в: 2023-10-14 21:17:38.067763
+INFO 2023-10-14 21:17:38,095 basehttp 12336 11940 "GET / HTTP/1.1" 200 14415
+INFO 2023-10-14 21:17:38,151 views 12336 16220 посещение страницы index в: 2023-10-14 21:17:38.151369
+INFO 2023-10-14 21:17:38,169 basehttp 12336 16220 "GET / HTTP/1.1" 200 14417
+INFO 2023-10-14 21:18:53,022 autoreload 12336 1144 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:18:53,525 autoreload 9236 7316 Watching for file changes with StatReloader
+INFO 2023-10-14 21:18:54,882 views 9236 19624 посещение страницы index в: 2023-10-14 21:18:54.882767
+INFO 2023-10-14 21:18:54,912 basehttp 9236 19624 "GET / HTTP/1.1" 200 14468
+INFO 2023-10-14 21:18:54,967 views 9236 19124 посещение страницы index в: 2023-10-14 21:18:54.967991
+INFO 2023-10-14 21:18:55,006 basehttp 9236 19124 "GET / HTTP/1.1" 200 14470
+INFO 2023-10-14 21:23:28,464 autoreload 9236 7316 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:23:28,933 autoreload 2544 19092 Watching for file changes with StatReloader
+INFO 2023-10-14 21:23:30,372 views 2544 16240 посещение страницы index в: 2023-10-14 21:23:30.372050
+INFO 2023-10-14 21:23:30,402 basehttp 2544 16240 "GET / HTTP/1.1" 200 14537
+INFO 2023-10-14 21:23:30,530 views 2544 16716 посещение страницы index в: 2023-10-14 21:23:30.530260
+INFO 2023-10-14 21:23:30,555 basehttp 2544 16716 "GET / HTTP/1.1" 200 14539
+INFO 2023-10-14 21:25:39,628 views 2544 16240 посещение страницы index в: 2023-10-14 21:25:39.628737
+INFO 2023-10-14 21:25:39,643 basehttp 2544 16240 "GET / HTTP/1.1" 200 14539
+INFO 2023-10-14 21:25:39,753 views 2544 16716 посещение страницы index в: 2023-10-14 21:25:39.753971
+INFO 2023-10-14 21:25:39,770 basehttp 2544 16716 "GET / HTTP/1.1" 200 14539
+INFO 2023-10-14 21:27:42,589 autoreload 2544 19092 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:27:43,188 autoreload 4892 9692 Watching for file changes with StatReloader
+INFO 2023-10-14 21:27:43,778 views 4892 10520 посещение страницы index в: 2023-10-14 21:27:43.778584
+INFO 2023-10-14 21:27:43,807 basehttp 4892 10520 "GET / HTTP/1.1" 200 14130
+INFO 2023-10-14 21:27:43,947 views 4892 5468 посещение страницы index в: 2023-10-14 21:27:43.947504
+INFO 2023-10-14 21:27:43,965 basehttp 4892 5468 "GET / HTTP/1.1" 200 14132
+INFO 2023-10-14 21:27:58,984 autoreload 4892 9692 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:27:59,439 autoreload 10392 10168 Watching for file changes with StatReloader
+INFO 2023-10-14 21:27:59,679 views 10392 15840 посещение страницы index в: 2023-10-14 21:27:59.679875
+INFO 2023-10-14 21:27:59,707 basehttp 10392 15840 "GET / HTTP/1.1" 200 14074
+INFO 2023-10-14 21:27:59,830 views 10392 15052 посещение страницы index в: 2023-10-14 21:27:59.830883
+INFO 2023-10-14 21:27:59,849 basehttp 10392 15052 "GET / HTTP/1.1" 200 14076
+INFO 2023-10-14 21:28:23,996 views 10392 15840 посещение страницы index в: 2023-10-14 21:28:23.996027
+INFO 2023-10-14 21:28:24,010 basehttp 10392 15840 "GET / HTTP/1.1" 200 14076
+INFO 2023-10-14 21:28:24,145 views 10392 15052 посещение страницы index в: 2023-10-14 21:28:24.145007
+INFO 2023-10-14 21:28:24,164 basehttp 10392 15052 "GET / HTTP/1.1" 200 14076
+INFO 2023-10-14 21:33:51,405 autoreload 10392 10168 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:33:51,865 autoreload 18156 19548 Watching for file changes with StatReloader
+INFO 2023-10-14 21:34:13,876 autoreload 18156 19548 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:34:14,321 autoreload 13124 13756 Watching for file changes with StatReloader
+INFO 2023-10-14 21:34:15,995 views 13124 12420 посещение страницы index в: 2023-10-14 21:34:15.995513
+INFO 2023-10-14 21:34:16,024 basehttp 13124 12420 "GET / HTTP/1.1" 200 14173
+INFO 2023-10-14 21:34:16,157 views 13124 16996 посещение страницы index в: 2023-10-14 21:34:16.157128
+INFO 2023-10-14 21:34:16,175 basehttp 13124 16996 "GET / HTTP/1.1" 200 14175
+INFO 2023-10-14 21:34:59,387 autoreload 13124 13756 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:34:59,835 autoreload 9428 10816 Watching for file changes with StatReloader
+INFO 2023-10-14 21:35:21,870 autoreload 9428 10816 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:35:22,348 autoreload 2912 4588 Watching for file changes with StatReloader
+INFO 2023-10-14 21:35:24,457 views 2912 12416 посещение страницы index в: 2023-10-14 21:35:24.457544
+INFO 2023-10-14 21:35:24,486 basehttp 2912 12416 "GET / HTTP/1.1" 200 14287
+INFO 2023-10-14 21:35:24,614 views 2912 8432 посещение страницы index в: 2023-10-14 21:35:24.614449
+INFO 2023-10-14 21:35:24,631 basehttp 2912 8432 "GET / HTTP/1.1" 200 14289
+INFO 2023-10-14 21:35:58,924 autoreload 2912 4588 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:35:59,371 autoreload 13044 19616 Watching for file changes with StatReloader
+INFO 2023-10-14 21:35:59,497 views 13044 8052 посещение страницы index в: 2023-10-14 21:35:59.497210
+INFO 2023-10-14 21:35:59,527 basehttp 13044 8052 "GET / HTTP/1.1" 200 14289
+INFO 2023-10-14 21:35:59,639 views 13044 8576 посещение страницы index в: 2023-10-14 21:35:59.639739
+INFO 2023-10-14 21:35:59,656 basehttp 13044 8576 "GET / HTTP/1.1" 200 14291
+INFO 2023-10-14 21:36:30,789 autoreload 13044 19616 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:36:31,249 autoreload 10704 12388 Watching for file changes with StatReloader
+INFO 2023-10-14 21:36:39,832 autoreload 10704 12388 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:36:40,289 autoreload 13148 8760 Watching for file changes with StatReloader
+INFO 2023-10-14 21:36:41,519 views 13148 17428 посещение страницы index в: 2023-10-14 21:36:41.519540
+INFO 2023-10-14 21:36:41,547 basehttp 13148 17428 "GET / HTTP/1.1" 200 14287
+INFO 2023-10-14 21:36:41,606 views 13148 18324 посещение страницы index в: 2023-10-14 21:36:41.606385
+INFO 2023-10-14 21:36:41,629 basehttp 13148 18324 "GET / HTTP/1.1" 200 14289
+INFO 2023-10-14 21:36:57,354 autoreload 13148 8760 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:36:57,845 autoreload 19708 9720 Watching for file changes with StatReloader
+INFO 2023-10-14 21:36:58,169 views 19708 18908 посещение страницы index в: 2023-10-14 21:36:58.169365
+INFO 2023-10-14 21:36:58,196 basehttp 19708 18908 "GET / HTTP/1.1" 200 14317
+INFO 2023-10-14 21:36:58,249 views 19708 16232 посещение страницы index в: 2023-10-14 21:36:58.249795
+INFO 2023-10-14 21:36:58,267 basehttp 19708 16232 "GET / HTTP/1.1" 200 14319
+INFO 2023-10-14 21:37:33,441 autoreload 19708 9720 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\homework_1\views.py changed, reloading.
+INFO 2023-10-14 21:37:33,953 autoreload 13676 5036 Watching for file changes with StatReloader
+INFO 2023-10-14 21:37:35,591 views 13676 18820 посещение страницы index в: 2023-10-14 21:37:35.591956
+INFO 2023-10-14 21:37:35,627 basehttp 13676 18820 "GET / HTTP/1.1" 200 14353
+INFO 2023-10-14 21:37:35,747 views 13676 8348 посещение страницы index в: 2023-10-14 21:37:35.746389
+INFO 2023-10-14 21:37:35,765 basehttp 13676 8348 "GET / HTTP/1.1" 200 14355
+INFO 2023-10-14 21:46:20,288 autoreload 13676 5036 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-14 21:46:20,785 autoreload 18628 10728 Watching for file changes with StatReloader
+INFO 2023-10-14 21:46:27,295 autoreload 18628 10728 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-14 21:46:27,761 autoreload 20408 20000 Watching for file changes with StatReloader
+INFO 2023-10-14 21:46:41,510 autoreload 20408 20000 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-14 21:46:41,964 autoreload 19556 11636 Watching for file changes with StatReloader
+INFO 2023-10-14 21:46:50,532 autoreload 19556 11636 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-14 21:46:50,960 autoreload 17720 18520 Watching for file changes with StatReloader
+INFO 2023-10-14 21:47:17,118 autoreload 17720 18520 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-14 21:47:17,579 autoreload 16484 13756 Watching for file changes with StatReloader
+INFO 2023-10-14 21:50:29,247 autoreload 16484 13756 C:\Users\dima4\Documents\GeekBrains\Programmer\000_Tech_spec\Django\project-django\myproject\settings.py changed, reloading.
+INFO 2023-10-14 21:50:29,710 autoreload 19684 18732 Watching for file changes with StatReloader

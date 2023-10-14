@@ -47,24 +47,39 @@
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_5_order" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_product" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_article" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_4_client" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_client" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp5_article" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp3_coin" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_5_product" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp4_article" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_4_product" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.auth_permission" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_order" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp5_author" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp4_author" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_4_order_products" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_3_user" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp3_author" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_orders_products" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_author" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.auth_group_permissions" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp4_coin" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_5_user" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_4_order" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.auth_user" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_5_order_products" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.sqlite_sequence" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.auth_group" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp5_comment" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_orders" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_2_user" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp5_coin" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_3_order_products" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_4_user" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.auth_user_groups" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_coin" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp4_comment" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.homework_3_order" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp3_comment" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0861d602-2234-4fc5-8834-d6c7b6d5ca84" dataset="db.myapp2_autor" active-filter-id="EMPTY_FILTER" />

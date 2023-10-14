@@ -77,3 +77,4 @@
 Настроить работу проекта на сервере.
 база данных - django_sems
 pass - 1144WWee
+s_key - 28bb6c02d595f6704e0dddd64adec3e2d1e0a474ced12730be4b59a98442e4d3

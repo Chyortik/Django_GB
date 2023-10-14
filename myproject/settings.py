@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 
 SECRET_KEY = os.getenv('SECRET_KEY')
-
+# SECRET_KEY = 'django-insecure-eu8yj=$*v1)&x5&m$(26%o3r7==bz4z@0@9o7oojfn%lb*$z65'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
@@ -30,7 +30,7 @@ CSRF_COOKIE_SECURE = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
                  '192.168.0.174',
-                 'chortyk.pythonanywhere.com',
+                 'chyortyk.pythonanywhere.com',
 
                  ]
 
@@ -97,10 +97,10 @@ WSGI_APPLICATION = 'myproject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'chortyk$django_sems',
-        'USER': 'chortyk',
+        'NAME': 'chyortyk$default',
+        'USER': 'chyortyk',
         'PASSWORD': os.getenv('MYSQL_PASSWORD'),
-        'HOST': 'chortyk.mysql.pythonanywhere-services.com',
+        'HOST': 'chyortyk.mysql.pythonanywhere-services.com',
         'OPTIONS': {
             'init_command': "SET NAMES 'utf8mb4';SET sql_mode='STRICT_TRANS_TABLES'",
             'charset': 'utf8mb4',
@@ -108,6 +108,12 @@ DATABASES = {
     }
 }
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
 

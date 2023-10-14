@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{% block title %}Магазин{% endblock %}</title>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+                Главная
+            </button>
+        </a>
+    </div>
+</nav>
+
+{% block content %}
+    <h1>Добро пожаловать на главную страницу сайта!</h1>
+{% endblock %}
+
+<div class="row fixed-bottom modal-footer">
+    <hr>
+    <a href="/products/">
+        <button>
+            К списку продуктов
+        </button>
+    </a>
+
+    <p>Все права защищены</p>
+</div>
+</body>
+</html>

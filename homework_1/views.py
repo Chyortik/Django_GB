@@ -33,11 +33,81 @@ def index(request):
             }
             h5 {
                 color: #b66a25;
+                text-align: center;
+            }
+            table {
+                margin: auto;
+                width: 600px;
+                text-align: center;
+                border-collapse: collapse;
+                border: 1px solid black;
+            }
+            th {
+               border: 1px solid black;
+            }
+            td {
+               border: 1px solid black;
             }
         </style>
     </head>
     <body>
         <h1>Приветствую на моем первом Django-сайте!</h1>
+        <h5>Главная страница домашнего задания 1</h5>
+        <table>
+            
+            <tr>
+                <th>№ п/п</th>
+                <th>Наименование</th>
+                <th>Ссылки</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Игра орел и решка</td>
+                <td>/eagle/кол-во бросков</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Игра игральная кость</td>
+                <td>/cube/</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Игра случайное число</td>
+                <td>/random_number/</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Показать результаты</td>
+                <td>/show_elements/число</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Страница обо мне</td>
+                <td>/about/</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Страница заказы пользователя (ДЗ №3)</td>
+                <td>/user/ id пользователя</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Страница заказы пользователя за определенный период (ДЗ №3)</td>
+                <td>/user_sorted/ id пользователя/ кол-во дней (7, 30, 365)/</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Главная страница ДЗ №4</td>
+                <td>/hw_4/</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Главная страница ДЗ №5</td>
+                <td>/admin/ (доступ -> login: admin, pass: 1)</td>
+            </tr>
+        </table>
+
+
 
         <h2>О сайте</h2>
         <p>Сайт разработан с помощью Django, мощного фреймворка для
